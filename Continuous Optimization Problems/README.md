@@ -1,4 +1,4 @@
-#### Continuous Optimization Problems
+This folder contains the metaheuristic optimization of **continuous problems**.
 
 [F1 : Shifted Sphere Function](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function)
 
