@@ -54,4 +54,4 @@ The stopping criterion, number of epochs is set as 600.
 Time taken to compute the solution is 15.58 seconds.
 
 ## Convergence curve
-![image5](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Discrete%20Optimization%20Problems/Travelling%20SalesMan%20Problem%20-%20Djibouti/Images/plot.png
+![image5](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Discrete%20Optimization%20Problems/Travelling%20SalesMan%20Problem%20-%20Djibouti/Images/plot.png)
