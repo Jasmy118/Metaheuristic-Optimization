@@ -46,3 +46,12 @@ The best path chosen is : 1  2  4  3  5  6  7  8  9 11 12 16 17 18 19 13 15 20 2
 ![image2](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Discrete%20Optimization%20Problems/Travelling%20SalesMan%20Problem%20-%20Djibouti/Images/1.png)
 ![image3](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Discrete%20Optimization%20Problems/Travelling%20SalesMan%20Problem%20-%20Djibouti/Images/3.png)
 ![image4](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Discrete%20Optimization%20Problems/Travelling%20SalesMan%20Problem%20-%20Djibouti/Images/path.png)
+
+## Stopping criterion
+The stopping criterion, number of epochs is set as 600.
+
+## Computational time
+Time taken to compute the solution is 15.58 seconds.
+
+## Convergence curve
+![image5](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Discrete%20Optimization%20Problems/Travelling%20SalesMan%20Problem%20-%20Djibouti/Images/plot.png
