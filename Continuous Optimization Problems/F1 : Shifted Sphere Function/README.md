@@ -30,11 +30,9 @@ Even though the number of iterations required by differential evolution is less 
 
 The outputs and epochs using CMA-ES algorithm in 50 and 500 dimension can be found in below link:
 
-[CMAES_Output_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_output_50.txt)       ||      
-[CMAES_Epochs_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_epochs_50.txt)
+[CMAES_Output_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_output_50.txt)       ||      [CMAES_Epochs_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_epochs_50.txt)
 
-[CMAES_Output_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_output_500.txt)
-[CMAES_Epochs_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_epochs_500.txt)
+[CMAES_Output_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_output_500.txt) ||  [CMAES_Epochs_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_epochs_500.txt)
 
 The details of the results are as below:
 
