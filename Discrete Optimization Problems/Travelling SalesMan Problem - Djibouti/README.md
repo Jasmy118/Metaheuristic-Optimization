@@ -3,7 +3,7 @@
 Data can be retrieved from below link:
 http://www.math.uwaterloo.ca/tsp/world/countries.html
 or 
-![dj38tsp.txt](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Discrete%20Optimization%20Problems/Travelling%20SalesMan%20Problem%20-%20Djibouti/dj38tsp.txt)
+[dj38tsp.txt](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Discrete%20Optimization%20Problems/Travelling%20SalesMan%20Problem%20-%20Djibouti/dj38tsp.txt)
 
 ## Chosen algorithm
 
