@@ -19,9 +19,9 @@ http://cma.gforge.inria.fr/cmaes_sourcecode_page.html#python
 ## Parameters of the algorithm
 For the CMA-ES algorithm, the initial solution was set as 0 with an initial standard deviation(sigma0) of 1. All other parameters are left as the default values. Default values as below:
 
-- population size, popsize = $4+int(3*np.log(Dimension))$
+- population size, popsize = ![$4+int(3*np.log(Dimension))$](https://render.githubusercontent.com/render/math?math=%244%2Bint(3*np.log(Dimension))%24)
 - maximum number of function evaluations, maxfevals = inf
-- maximum number of iterations, maxiter = $100 + 150 * (N+3)**2 // popsize**0.5$
+- maximum number of iterations, maxiter = ![$100 + 150 * (N+3)^2 // popsize^0.5$](https://render.githubusercontent.com/render/math?math=%24100%20%2B%20150%20*%20(N%2B3)%5E2%20%2F%2F%20popsize%5E0.5%24)
 - termination criterion: tolerance in x-changes, tolx = 1e-11
 - termination criterion: tolerance in function value, tolfun = 1e-11
 
