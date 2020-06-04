@@ -101,11 +101,9 @@ In 50D maximum iteration (maxiter) of 500, relative tolerance for convergence (t
 
 **Results** :
 
-[DE_Output_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_output_50.txt)
-        [DE_Epochs_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_epochs_50.txt)
+[DE_Output_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_output_50.txt)  ||  [DE_Epochs_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_epochs_50.txt)
 
-[DE_Output_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_output_500.txt)
-        [DE_Epochs_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_epochs_500.txt)
+[DE_Output_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_output_500.txt)  ||  [DE_Epochs_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_epochs_500.txt)
 
 **DE in 50D**
 
