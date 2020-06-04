@@ -31,10 +31,10 @@ Even though the number of iterations required by differential evolution is less 
 The outputs and epochs using CMA-ES algorithm in 50 and 500 dimension can be found in below link:
 
 [CMAES_Output_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_output_50.txt)
-[CMAES_Epochs_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_epochs_50.txt)
+        [CMAES_Epochs_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_epochs_50.txt)
 
 [CMAES_Output_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_output_500.txt)
-[CMAES_Epochs_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_epochs_500.txt)
+        [CMAES_Epochs_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/CMAES/cmaes_epochs_500.txt)
 
 The details of the results are as below:
 
@@ -77,7 +77,7 @@ The function evaluations (Fevals) are done from 22 to 141328 using cma-es in 500
 ## Stopping criterion
 - termination criterion: tolerance in x-changes, tolx = 1e-11
 - termination criterion: tolerance in function value, tolfun = 1e-11
-- maximum number of iterations, maxiter = $100 + 150 * (N+3)**2 // popsize**0.5$
+- maximum number of iterations, maxiter = ![$100 + 150 * (N+3)^2 // popsize^0.5$](https://render.githubusercontent.com/render/math?math=%24100%20%2B%20150%20*%20(N%2B3)%5E2%20%2F%2F%20popsize%5E0.5%24)
 
 For both 50D and 500D, the optimization was stopped by the criterion tolflatfitness (iterations tolerated with flat fitness before termination) = 1
 
@@ -104,10 +104,10 @@ In 50D maximum iteration (maxiter) of 500, relative tolerance for convergence (t
 **Results** :
 
 [DE_Output_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_output_50.txt)
-[DE_Epochs_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_epochs_50.txt)
+        [DE_Epochs_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_epochs_50.txt)
 
 [DE_Output_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_output_500.txt)
-[DE_Epochs_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_epochs_500.txt)
+        [DE_Epochs_500](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Outputs/DE/de_epochs_500.txt)
 
 **DE in 50D**
 
@@ -128,4 +128,3 @@ Message :  Maximum number of iterations has been exceeded.
 Number of iterations done :  2000
 
 Optimum value of function :  -449.9999999995561
-
