@@ -12,3 +12,4 @@ The optimum of the solution is calculated for dimensions 50 and 500 with a bound
 
 Global optimum: $X^* = O , F_1(X^*) = f\_bias_1 = - 450$
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
