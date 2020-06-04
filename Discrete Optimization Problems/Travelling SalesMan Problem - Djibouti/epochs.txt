@@ -1,0 +1,3008 @@
+Simulated Annealing starts with parameters:
+Initial Temperature:  6951.659364023405
+Cooling Rate:  0.99
+Initial Epoch Length:  100
+Stopping Criterion: After 600 epochs
+
+Epoch  1
+Temperature:  6951.659364023405
+Epoch Length:  100
+Current Dist:  25829.79033807894
+Best Dist:  17000.73130566338
+Epoch  2
+Temperature:  6882.1427703831705
+Epoch Length:  100
+Current Dist:  28964.515920240177
+Best Dist:  17000.73130566338
+Epoch  3
+Temperature:  6813.321342679339
+Epoch Length:  100
+Current Dist:  24562.306059607396
+Best Dist:  17000.73130566338
+Epoch  4
+Temperature:  6745.188129252546
+Epoch Length:  100
+Current Dist:  25674.61375349222
+Best Dist:  17000.73130566338
+Epoch  5
+Temperature:  6677.736247960021
+Epoch Length:  100
+Current Dist:  30301.827337666055
+Best Dist:  17000.73130566338
+Epoch  6
+Temperature:  6610.958885480421
+Epoch Length:  100
+Current Dist:  30593.23737074737
+Best Dist:  17000.73130566338
+Epoch  7
+Temperature:  6544.849296625616
+Epoch Length:  100
+Current Dist:  24789.24286468944
+Best Dist:  17000.73130566338
+Epoch  8
+Temperature:  6479.4008036593605
+Epoch Length:  100
+Current Dist:  28454.49506149363
+Best Dist:  17000.73130566338
+Epoch  9
+Temperature:  6414.606795622767
+Epoch Length:  100
+Current Dist:  26486.71843827186
+Best Dist:  17000.73130566338
+Epoch  10
+Temperature:  6350.460727666539
+Epoch Length:  100
+Current Dist:  24954.55062988193
+Best Dist:  17000.73130566338
+Epoch  11
+Temperature:  6286.956120389874
+Epoch Length:  100
+Current Dist:  25342.25779942855
+Best Dist:  17000.73130566338
+Epoch  12
+Temperature:  6224.086559185975
+Epoch Length:  100
+Current Dist:  26059.8978275879
+Best Dist:  17000.73130566338
+Epoch  13
+Temperature:  6161.845693594115
+Epoch Length:  100
+Current Dist:  28910.875710047345
+Best Dist:  17000.73130566338
+Epoch  14
+Temperature:  6100.227236658174
+Epoch Length:  100
+Current Dist:  26476.427711616674
+Best Dist:  17000.73130566338
+Epoch  15
+Temperature:  6039.224964291592
+Epoch Length:  100
+Current Dist:  27313.569541063775
+Best Dist:  17000.73130566338
+Epoch  16
+Temperature:  5978.832714648676
+Epoch Length:  100
+Current Dist:  27186.474847293946
+Best Dist:  17000.73130566338
+Epoch  17
+Temperature:  5919.044387502189
+Epoch Length:  100
+Current Dist:  27197.418665450292
+Best Dist:  17000.73130566338
+Epoch  18
+Temperature:  5859.853943627168
+Epoch Length:  100
+Current Dist:  27342.74962686616
+Best Dist:  17000.73130566338
+Epoch  19
+Temperature:  5801.255404190896
+Epoch Length:  100
+Current Dist:  25362.322912508233
+Best Dist:  17000.73130566338
+Epoch  20
+Temperature:  5743.242850148987
+Epoch Length:  100
+Current Dist:  27824.01675470693
+Best Dist:  17000.73130566338
+Epoch  21
+Temperature:  5685.810421647497
+Epoch Length:  100
+Current Dist:  22077.914990263936
+Best Dist:  17000.73130566338
+Epoch  22
+Temperature:  5628.952317431022
+Epoch Length:  100
+Current Dist:  27356.079062653247
+Best Dist:  17000.73130566338
+Epoch  23
+Temperature:  5572.662794256711
+Epoch Length:  100
+Current Dist:  29448.678360767488
+Best Dist:  17000.73130566338
+Epoch  24
+Temperature:  5516.9361663141435
+Epoch Length:  100
+Current Dist:  28122.183839621248
+Best Dist:  17000.73130566338
+Epoch  25
+Temperature:  5461.766804651002
+Epoch Length:  100
+Current Dist:  27963.911580404376
+Best Dist:  17000.73130566338
+Epoch  26
+Temperature:  5407.149136604491
+Epoch Length:  100
+Current Dist:  27712.694478826357
+Best Dist:  17000.73130566338
+Epoch  27
+Temperature:  5353.077645238446
+Epoch Length:  100
+Current Dist:  27130.491641399
+Best Dist:  17000.73130566338
+Epoch  28
+Temperature:  5299.546868786062
+Epoch Length:  100
+Current Dist:  27062.24030159627
+Best Dist:  17000.73130566338
+Epoch  29
+Temperature:  5246.551400098201
+Epoch Length:  100
+Current Dist:  25546.658416752645
+Best Dist:  17000.73130566338
+Epoch  30
+Temperature:  5194.085886097219
+Epoch Length:  100
+Current Dist:  28842.623565788672
+Best Dist:  17000.73130566338
+Epoch  31
+Temperature:  5142.145027236247
+Epoch Length:  100
+Current Dist:  28145.846329442484
+Best Dist:  17000.73130566338
+Epoch  32
+Temperature:  5090.723576963885
+Epoch Length:  100
+Current Dist:  25985.21078522427
+Best Dist:  17000.73130566338
+Epoch  33
+Temperature:  5039.816341194246
+Epoch Length:  100
+Current Dist:  26416.40938439333
+Best Dist:  17000.73130566338
+Epoch  34
+Temperature:  4989.418177782303
+Epoch Length:  100
+Current Dist:  27086.764179113856
+Best Dist:  17000.73130566338
+Epoch  35
+Temperature:  4939.52399600448
+Epoch Length:  100
+Current Dist:  27585.381511070256
+Best Dist:  17000.73130566338
+Epoch  36
+Temperature:  4890.128756044435
+Epoch Length:  100
+Current Dist:  24536.921762899165
+Best Dist:  17000.73130566338
+Epoch  37
+Temperature:  4841.227468483991
+Epoch Length:  100
+Current Dist:  26163.817016091467
+Best Dist:  17000.73130566338
+Epoch  38
+Temperature:  4792.8151937991515
+Epoch Length:  100
+Current Dist:  24917.20656593167
+Best Dist:  17000.73130566338
+Epoch  39
+Temperature:  4744.88704186116
+Epoch Length:  100
+Current Dist:  25484.957456013213
+Best Dist:  17000.73130566338
+Epoch  40
+Temperature:  4697.438171442548
+Epoch Length:  100
+Current Dist:  25214.580678555732
+Best Dist:  17000.73130566338
+Epoch  41
+Temperature:  4650.463789728123
+Epoch Length:  100
+Current Dist:  26820.341183922614
+Best Dist:  17000.73130566338
+Epoch  42
+Temperature:  4603.959151830842
+Epoch Length:  100
+Current Dist:  27709.258690557283
+Best Dist:  17000.73130566338
+Epoch  43
+Temperature:  4557.919560312534
+Epoch Length:  100
+Current Dist:  27380.70530774894
+Best Dist:  17000.73130566338
+Epoch  44
+Temperature:  4512.340364709408
+Epoch Length:  100
+Current Dist:  25335.83068873996
+Best Dist:  17000.73130566338
+Epoch  45
+Temperature:  4467.216961062314
+Epoch Length:  100
+Current Dist:  30068.334956531555
+Best Dist:  17000.73130566338
+Epoch  46
+Temperature:  4422.544791451691
+Epoch Length:  100
+Current Dist:  25667.58656213057
+Best Dist:  17000.73130566338
+Epoch  47
+Temperature:  4378.319343537174
+Epoch Length:  100
+Current Dist:  28047.57307337231
+Best Dist:  17000.73130566338
+Epoch  48
+Temperature:  4334.536150101802
+Epoch Length:  100
+Current Dist:  25308.77654014067
+Best Dist:  17000.73130566338
+Epoch  49
+Temperature:  4291.190788600784
+Epoch Length:  100
+Current Dist:  24112.397817512625
+Best Dist:  17000.73130566338
+Epoch  50
+Temperature:  4248.278880714776
+Epoch Length:  100
+Current Dist:  26787.46948959599
+Best Dist:  17000.73130566338
+Epoch  51
+Temperature:  4205.796091907629
+Epoch Length:  100
+Current Dist:  23018.281829909694
+Best Dist:  17000.73130566338
+Epoch  52
+Temperature:  4163.738130988552
+Epoch Length:  100
+Current Dist:  27908.544824713146
+Best Dist:  17000.73130566338
+Epoch  53
+Temperature:  4122.100749678667
+Epoch Length:  100
+Current Dist:  26192.07749398566
+Best Dist:  17000.73130566338
+Epoch  54
+Temperature:  4080.8797421818804
+Epoch Length:  100
+Current Dist:  27964.675621090002
+Best Dist:  17000.73130566338
+Epoch  55
+Temperature:  4040.0709447600616
+Epoch Length:  100
+Current Dist:  26701.5195680197
+Best Dist:  17000.73130566338
+Epoch  56
+Temperature:  3999.670235312461
+Epoch Length:  100
+Current Dist:  28171.168318930126
+Best Dist:  17000.73130566338
+Epoch  57
+Temperature:  3959.6735329593366
+Epoch Length:  100
+Current Dist:  28195.11023805354
+Best Dist:  17000.73130566338
+Epoch  58
+Temperature:  3920.0767976297434
+Epoch Length:  100
+Current Dist:  29817.981660403086
+Best Dist:  17000.73130566338
+Epoch  59
+Temperature:  3880.876029653446
+Epoch Length:  100
+Current Dist:  29365.486510146333
+Best Dist:  17000.73130566338
+Epoch  60
+Temperature:  3842.0672693569118
+Epoch Length:  100
+Current Dist:  26493.99677508105
+Best Dist:  17000.73130566338
+Epoch  61
+Temperature:  3803.6465966633427
+Epoch Length:  100
+Current Dist:  31794.82197798025
+Best Dist:  17000.73130566338
+Epoch  62
+Temperature:  3765.6101306967093
+Epoch Length:  100
+Current Dist:  25251.60355922672
+Best Dist:  17000.73130566338
+Epoch  63
+Temperature:  3727.954029389742
+Epoch Length:  100
+Current Dist:  23205.300545032915
+Best Dist:  17000.73130566338
+Epoch  64
+Temperature:  3690.674489095845
+Epoch Length:  100
+Current Dist:  24627.989912993453
+Best Dist:  17000.73130566338
+Epoch  65
+Temperature:  3653.767744204886
+Epoch Length:  100
+Current Dist:  25391.46672762042
+Best Dist:  17000.73130566338
+Epoch  66
+Temperature:  3617.2300667628374
+Epoch Length:  100
+Current Dist:  26249.302869040628
+Best Dist:  17000.73130566338
+Epoch  67
+Temperature:  3581.057766095209
+Epoch Length:  100
+Current Dist:  24584.781071056015
+Best Dist:  17000.73130566338
+Epoch  68
+Temperature:  3545.2471884342567
+Epoch Length:  100
+Current Dist:  25484.9341880494
+Best Dist:  17000.73130566338
+Epoch  69
+Temperature:  3509.794716549914
+Epoch Length:  100
+Current Dist:  26496.0762467103
+Best Dist:  17000.73130566338
+Epoch  70
+Temperature:  3474.696769384415
+Epoch Length:  100
+Current Dist:  26086.123499299825
+Best Dist:  17000.73130566338
+Epoch  71
+Temperature:  3439.949801690571
+Epoch Length:  100
+Current Dist:  26391.237894888483
+Best Dist:  17000.73130566338
+Epoch  72
+Temperature:  3405.550303673665
+Epoch Length:  100
+Current Dist:  24089.98386434669
+Best Dist:  17000.73130566338
+Epoch  73
+Temperature:  3371.494800636928
+Epoch Length:  100
+Current Dist:  26778.027937310657
+Best Dist:  17000.73130566338
+Epoch  74
+Temperature:  3337.7798526305587
+Epoch Length:  100
+Current Dist:  23455.768976569336
+Best Dist:  17000.73130566338
+Epoch  75
+Temperature:  3304.4020541042532
+Epoch Length:  100
+Current Dist:  28464.993514921465
+Best Dist:  17000.73130566338
+Epoch  76
+Temperature:  3271.3580335632105
+Epoch Length:  100
+Current Dist:  28067.492030101097
+Best Dist:  17000.73130566338
+Epoch  77
+Temperature:  3238.644453227578
+Epoch Length:  100
+Current Dist:  27022.960818541862
+Best Dist:  17000.73130566338
+Epoch  78
+Temperature:  3206.2580086953026
+Epoch Length:  100
+Current Dist:  30052.38181235323
+Best Dist:  17000.73130566338
+Epoch  79
+Temperature:  3174.1954286083496
+Epoch Length:  100
+Current Dist:  25645.982822388793
+Best Dist:  17000.73130566338
+Epoch  80
+Temperature:  3142.453474322266
+Epoch Length:  100
+Current Dist:  27846.893925865254
+Best Dist:  17000.73130566338
+Epoch  81
+Temperature:  3111.0289395790437
+Epoch Length:  100
+Current Dist:  27937.400081784843
+Best Dist:  17000.73130566338
+Epoch  82
+Temperature:  3079.9186501832532
+Epoch Length:  100
+Current Dist:  23794.55801472696
+Best Dist:  17000.73130566338
+Epoch  83
+Temperature:  3049.1194636814207
+Epoch Length:  100
+Current Dist:  26018.627416932908
+Best Dist:  17000.73130566338
+Epoch  84
+Temperature:  3018.6282690446064
+Epoch Length:  100
+Current Dist:  27614.333880598337
+Best Dist:  17000.73130566338
+Epoch  85
+Temperature:  2988.4419863541602
+Epoch Length:  100
+Current Dist:  27282.497444444463
+Best Dist:  17000.73130566338
+Epoch  86
+Temperature:  2958.5575664906187
+Epoch Length:  100
+Current Dist:  25687.512546260517
+Best Dist:  17000.73130566338
+Epoch  87
+Temperature:  2928.9719908257125
+Epoch Length:  100
+Current Dist:  23983.981144756883
+Best Dist:  17000.73130566338
+Epoch  88
+Temperature:  2899.6822709174553
+Epoch Length:  100
+Current Dist:  25897.014656967687
+Best Dist:  17000.73130566338
+Epoch  89
+Temperature:  2870.685448208281
+Epoch Length:  100
+Current Dist:  25283.096224187968
+Best Dist:  17000.73130566338
+Epoch  90
+Temperature:  2841.978593726198
+Epoch Length:  100
+Current Dist:  27786.342329043222
+Best Dist:  17000.73130566338
+Epoch  91
+Temperature:  2813.558807788936
+Epoch Length:  100
+Current Dist:  24112.609039681258
+Best Dist:  17000.73130566338
+Epoch  92
+Temperature:  2785.423219711047
+Epoch Length:  100
+Current Dist:  25434.987380082122
+Best Dist:  17000.73130566338
+Epoch  93
+Temperature:  2757.5689875139365
+Epoch Length:  100
+Current Dist:  25886.564424820976
+Best Dist:  17000.73130566338
+Epoch  94
+Temperature:  2729.9932976387972
+Epoch Length:  100
+Current Dist:  24950.576913600322
+Best Dist:  17000.73130566338
+Epoch  95
+Temperature:  2702.6933646624093
+Epoch Length:  100
+Current Dist:  27920.97770087797
+Best Dist:  17000.73130566338
+Epoch  96
+Temperature:  2675.6664310157853
+Epoch Length:  100
+Current Dist:  28458.329859520105
+Best Dist:  17000.73130566338
+Epoch  97
+Temperature:  2648.9097667056276
+Epoch Length:  100
+Current Dist:  24175.943876245972
+Best Dist:  17000.73130566338
+Epoch  98
+Temperature:  2622.4206690385713
+Epoch Length:  100
+Current Dist:  25587.691883826123
+Best Dist:  17000.73130566338
+Epoch  99
+Temperature:  2596.1964623481854
+Epoch Length:  100
+Current Dist:  27105.05573811117
+Best Dist:  17000.73130566338
+Epoch  100
+Temperature:  2570.2344977247035
+Epoch Length:  100
+Current Dist:  26074.822009171792
+Best Dist:  17000.73130566338
+Epoch  101
+Temperature:  2544.5321527474566
+Epoch Length:  100
+Current Dist:  27966.23342323852
+Best Dist:  17000.73130566338
+Epoch  102
+Temperature:  2519.086831219982
+Epoch Length:  100
+Current Dist:  26262.013552945686
+Best Dist:  17000.73130566338
+Epoch  103
+Temperature:  2493.895962907782
+Epoch Length:  100
+Current Dist:  28001.02799431719
+Best Dist:  17000.73130566338
+Epoch  104
+Temperature:  2468.957003278704
+Epoch Length:  100
+Current Dist:  24785.20589770952
+Best Dist:  17000.73130566338
+Epoch  105
+Temperature:  2444.267433245917
+Epoch Length:  100
+Current Dist:  24517.563909320197
+Best Dist:  17000.73130566338
+Epoch  106
+Temperature:  2419.8247589134576
+Epoch Length:  100
+Current Dist:  27905.374360056376
+Best Dist:  17000.73130566338
+Epoch  107
+Temperature:  2395.626511324323
+Epoch Length:  100
+Current Dist:  23425.84245610607
+Best Dist:  17000.73130566338
+Epoch  108
+Temperature:  2371.6702462110798
+Epoch Length:  100
+Current Dist:  27688.583668267045
+Best Dist:  17000.73130566338
+Epoch  109
+Temperature:  2347.953543748969
+Epoch Length:  100
+Current Dist:  23962.33912275494
+Best Dist:  17000.73130566338
+Epoch  110
+Temperature:  2324.4740083114793
+Epoch Length:  100
+Current Dist:  25664.814732727962
+Best Dist:  17000.73130566338
+Epoch  111
+Temperature:  2301.2292682283646
+Epoch Length:  100
+Current Dist:  24968.334200644138
+Best Dist:  17000.73130566338
+Epoch  112
+Temperature:  2278.216975546081
+Epoch Length:  100
+Current Dist:  24789.187896073025
+Best Dist:  17000.73130566338
+Epoch  113
+Temperature:  2255.43480579062
+Epoch Length:  100
+Current Dist:  21499.94675615199
+Best Dist:  17000.73130566338
+Epoch  114
+Temperature:  2232.8804577327137
+Epoch Length:  100
+Current Dist:  25608.942040405786
+Best Dist:  17000.73130566338
+Epoch  115
+Temperature:  2210.5516531553867
+Epoch Length:  100
+Current Dist:  25328.630437136737
+Best Dist:  17000.73130566338
+Epoch  116
+Temperature:  2188.446136623833
+Epoch Length:  100
+Current Dist:  28558.04110333072
+Best Dist:  17000.73130566338
+Epoch  117
+Temperature:  2166.5616752575947
+Epoch Length:  100
+Current Dist:  25966.700807351022
+Best Dist:  17000.73130566338
+Epoch  118
+Temperature:  2144.8960585050186
+Epoch Length:  100
+Current Dist:  26150.265233654445
+Best Dist:  17000.73130566338
+Epoch  119
+Temperature:  2123.447097919968
+Epoch Length:  100
+Current Dist:  27614.264765151973
+Best Dist:  17000.73130566338
+Epoch  120
+Temperature:  2102.2126269407686
+Epoch Length:  100
+Current Dist:  22990.281502390004
+Best Dist:  17000.73130566338
+Epoch  121
+Temperature:  2081.190500671361
+Epoch Length:  100
+Current Dist:  24833.988115250737
+Best Dist:  17000.73130566338
+Epoch  122
+Temperature:  2060.3785956646475
+Epoch Length:  100
+Current Dist:  26220.12414871565
+Best Dist:  17000.73130566338
+Epoch  123
+Temperature:  2039.774809708001
+Epoch Length:  100
+Current Dist:  21940.33941353978
+Best Dist:  17000.73130566338
+Epoch  124
+Temperature:  2019.377061610921
+Epoch Length:  100
+Current Dist:  27002.487161621124
+Best Dist:  17000.73130566338
+Epoch  125
+Temperature:  1999.1832909948116
+Epoch Length:  100
+Current Dist:  25079.187324024733
+Best Dist:  17000.73130566338
+Epoch  126
+Temperature:  1979.1914580848634
+Epoch Length:  100
+Current Dist:  27100.08266390327
+Best Dist:  17000.73130566338
+Epoch  127
+Temperature:  1959.3995435040147
+Epoch Length:  100
+Current Dist:  22967.85972862616
+Best Dist:  17000.73130566338
+Epoch  128
+Temperature:  1939.8055480689745
+Epoch Length:  100
+Current Dist:  26253.29791231878
+Best Dist:  17000.73130566338
+Epoch  129
+Temperature:  1920.4074925882849
+Epoch Length:  100
+Current Dist:  25531.761740556813
+Best Dist:  17000.73130566338
+Epoch  130
+Temperature:  1901.203417662402
+Epoch Length:  100
+Current Dist:  26531.727456397737
+Best Dist:  17000.73130566338
+Epoch  131
+Temperature:  1882.191383485778
+Epoch Length:  100
+Current Dist:  22532.525617918247
+Best Dist:  17000.73130566338
+Epoch  132
+Temperature:  1863.3694696509203
+Epoch Length:  100
+Current Dist:  25513.530592285937
+Best Dist:  17000.73130566338
+Epoch  133
+Temperature:  1844.7357749544112
+Epoch Length:  100
+Current Dist:  22678.856989843072
+Best Dist:  17000.73130566338
+Epoch  134
+Temperature:  1826.288417204867
+Epoch Length:  100
+Current Dist:  25097.99454647368
+Best Dist:  17000.73130566338
+Epoch  135
+Temperature:  1808.0255330328184
+Epoch Length:  100
+Current Dist:  21751.90158099673
+Best Dist:  17000.73130566338
+Epoch  136
+Temperature:  1789.9452777024903
+Epoch Length:  100
+Current Dist:  24448.69613557849
+Best Dist:  17000.73130566338
+Epoch  137
+Temperature:  1772.0458249254655
+Epoch Length:  100
+Current Dist:  27890.40501483223
+Best Dist:  17000.73130566338
+Epoch  138
+Temperature:  1754.3253666762107
+Epoch Length:  100
+Current Dist:  26344.72653093691
+Best Dist:  17000.73130566338
+Epoch  139
+Temperature:  1736.7821130094485
+Epoch Length:  100
+Current Dist:  25527.719060319538
+Best Dist:  17000.73130566338
+Epoch  140
+Temperature:  1719.414291879354
+Epoch Length:  100
+Current Dist:  27158.847536259716
+Best Dist:  17000.73130566338
+Epoch  141
+Temperature:  1702.2201489605604
+Epoch Length:  100
+Current Dist:  24184.146889903775
+Best Dist:  17000.73130566338
+Epoch  142
+Temperature:  1685.197947470955
+Epoch Length:  100
+Current Dist:  25464.544642126217
+Best Dist:  17000.73130566338
+Epoch  143
+Temperature:  1668.3459679962452
+Epoch Length:  100
+Current Dist:  23809.656282908374
+Best Dist:  17000.73130566338
+Epoch  144
+Temperature:  1651.6625083162828
+Epoch Length:  100
+Current Dist:  25593.785072366896
+Best Dist:  17000.73130566338
+Epoch  145
+Temperature:  1635.14588323312
+Epoch Length:  100
+Current Dist:  29078.384538611215
+Best Dist:  17000.73130566338
+Epoch  146
+Temperature:  1618.7944244007888
+Epoch Length:  100
+Current Dist:  23023.046367737756
+Best Dist:  17000.73130566338
+Epoch  147
+Temperature:  1602.606480156781
+Epoch Length:  100
+Current Dist:  25013.199297258456
+Best Dist:  17000.73130566338
+Epoch  148
+Temperature:  1586.580415355213
+Epoch Length:  100
+Current Dist:  20511.927849023657
+Best Dist:  17000.73130566338
+Epoch  149
+Temperature:  1570.714611201661
+Epoch Length:  100
+Current Dist:  26279.624689126893
+Best Dist:  17000.73130566338
+Epoch  150
+Temperature:  1555.0074650896445
+Epoch Length:  100
+Current Dist:  27750.03022949698
+Best Dist:  17000.73130566338
+Epoch  151
+Temperature:  1539.457390438748
+Epoch Length:  100
+Current Dist:  27062.456388267434
+Best Dist:  17000.73130566338
+Epoch  152
+Temperature:  1524.0628165343605
+Epoch Length:  100
+Current Dist:  26287.870766427644
+Best Dist:  17000.73130566338
+Epoch  153
+Temperature:  1508.8221883690169
+Epoch Length:  100
+Current Dist:  26426.7053800102
+Best Dist:  17000.73130566338
+Epoch  154
+Temperature:  1493.7339664853266
+Epoch Length:  100
+Current Dist:  23463.60770906351
+Best Dist:  17000.73130566338
+Epoch  155
+Temperature:  1478.7966268204734
+Epoch Length:  100
+Current Dist:  27605.555251071106
+Best Dist:  17000.73130566338
+Epoch  156
+Temperature:  1464.0086605522686
+Epoch Length:  100
+Current Dist:  23638.005986447584
+Best Dist:  17000.73130566338
+Epoch  157
+Temperature:  1449.3685739467458
+Epoch Length:  100
+Current Dist:  21688.038836685504
+Best Dist:  17000.73130566338
+Epoch  158
+Temperature:  1434.8748882072782
+Epoch Length:  100
+Current Dist:  26713.504600002143
+Best Dist:  17000.73130566338
+Epoch  159
+Temperature:  1420.5261393252053
+Epoch Length:  100
+Current Dist:  27529.62285026179
+Best Dist:  17000.73130566338
+Epoch  160
+Temperature:  1406.3208779319532
+Epoch Length:  100
+Current Dist:  22233.680311761527
+Best Dist:  17000.73130566338
+Epoch  161
+Temperature:  1392.2576691526338
+Epoch Length:  100
+Current Dist:  26960.905761254693
+Best Dist:  17000.73130566338
+Epoch  162
+Temperature:  1378.3350924611075
+Epoch Length:  100
+Current Dist:  26459.204198826214
+Best Dist:  17000.73130566338
+Epoch  163
+Temperature:  1364.5517415364964
+Epoch Length:  100
+Current Dist:  31284.955590070913
+Best Dist:  17000.73130566338
+Epoch  164
+Temperature:  1350.9062241211313
+Epoch Length:  100
+Current Dist:  26106.978026512275
+Best Dist:  17000.73130566338
+Epoch  165
+Temperature:  1337.39716187992
+Epoch Length:  100
+Current Dist:  24574.73719088228
+Best Dist:  17000.73130566338
+Epoch  166
+Temperature:  1324.0231902611208
+Epoch Length:  100
+Current Dist:  28238.533158087623
+Best Dist:  17000.73130566338
+Epoch  167
+Temperature:  1310.7829583585096
+Epoch Length:  100
+Current Dist:  24648.20547173773
+Best Dist:  17000.73130566338
+Epoch  168
+Temperature:  1297.6751287749246
+Epoch Length:  100
+Current Dist:  24700.415315663926
+Best Dist:  17000.73130566338
+Epoch  169
+Temperature:  1284.6983774871753
+Epoch Length:  100
+Current Dist:  23713.973939114192
+Best Dist:  17000.73130566338
+Epoch  170
+Temperature:  1271.8513937123037
+Epoch Length:  100
+Current Dist:  25674.814465742227
+Best Dist:  17000.73130566338
+Epoch  171
+Temperature:  1259.1328797751805
+Epoch Length:  100
+Current Dist:  25350.888083103233
+Best Dist:  17000.73130566338
+Epoch  172
+Temperature:  1246.5415509774286
+Epoch Length:  100
+Current Dist:  22766.932952920397
+Best Dist:  17000.73130566338
+Epoch  173
+Temperature:  1234.0761354676542
+Epoch Length:  100
+Current Dist:  25328.791301759178
+Best Dist:  17000.73130566338
+Epoch  174
+Temperature:  1221.7353741129778
+Epoch Length:  100
+Current Dist:  22949.944093889862
+Best Dist:  17000.73130566338
+Epoch  175
+Temperature:  1209.518020371848
+Epoch Length:  100
+Current Dist:  26354.831554969736
+Best Dist:  17000.73130566338
+Epoch  176
+Temperature:  1197.4228401681296
+Epoch Length:  100
+Current Dist:  27699.634839582795
+Best Dist:  17000.73130566338
+Epoch  177
+Temperature:  1185.4486117664483
+Epoch Length:  100
+Current Dist:  24205.474471219954
+Best Dist:  17000.73130566338
+Epoch  178
+Temperature:  1173.5941256487838
+Epoch Length:  100
+Current Dist:  26020.949075445253
+Best Dist:  17000.73130566338
+Epoch  179
+Temperature:  1161.858184392296
+Epoch Length:  100
+Current Dist:  26010.109359023798
+Best Dist:  17000.73130566338
+Epoch  180
+Temperature:  1150.2396025483729
+Epoch Length:  100
+Current Dist:  23881.84599009804
+Best Dist:  17000.73130566338
+Epoch  181
+Temperature:  1138.7372065228892
+Epoch Length:  100
+Current Dist:  23002.51568803283
+Best Dist:  17000.73130566338
+Epoch  182
+Temperature:  1127.3498344576603
+Epoch Length:  100
+Current Dist:  27917.40658664343
+Best Dist:  17000.73130566338
+Epoch  183
+Temperature:  1116.0763361130837
+Epoch Length:  100
+Current Dist:  25360.571704708553
+Best Dist:  17000.73130566338
+Epoch  184
+Temperature:  1104.9155727519528
+Epoch Length:  100
+Current Dist:  21657.44377941019
+Best Dist:  17000.73130566338
+Epoch  185
+Temperature:  1093.8664170244333
+Epoch Length:  100
+Current Dist:  23757.404077146002
+Best Dist:  17000.73130566338
+Epoch  186
+Temperature:  1082.927752854189
+Epoch Length:  100
+Current Dist:  25227.334570466424
+Best Dist:  17000.73130566338
+Epoch  187
+Temperature:  1072.098475325647
+Epoch Length:  100
+Current Dist:  22889.0995447599
+Best Dist:  17000.73130566338
+Epoch  188
+Temperature:  1061.3774905723906
+Epoch Length:  100
+Current Dist:  24690.482523037484
+Best Dist:  17000.73130566338
+Epoch  189
+Temperature:  1050.7637156666667
+Epoch Length:  100
+Current Dist:  26122.948406802276
+Best Dist:  17000.73130566338
+Epoch  190
+Temperature:  1040.25607851
+Epoch Length:  100
+Current Dist:  24672.704785884056
+Best Dist:  17000.73130566338
+Epoch  191
+Temperature:  1029.8535177249
+Epoch Length:  100
+Current Dist:  26911.92469381428
+Best Dist:  17000.73130566338
+Epoch  192
+Temperature:  1019.554982547651
+Epoch Length:  100
+Current Dist:  28668.840007478466
+Best Dist:  17000.73130566338
+Epoch  193
+Temperature:  1009.3594327221745
+Epoch Length:  100
+Current Dist:  29658.832387732207
+Best Dist:  17000.73130566338
+Epoch  194
+Temperature:  999.2658383949527
+Epoch Length:  100
+Current Dist:  26171.41793293893
+Best Dist:  17000.73130566338
+Epoch  195
+Temperature:  989.2731800110031
+Epoch Length:  100
+Current Dist:  22478.91243496154
+Best Dist:  17000.73130566338
+Epoch  196
+Temperature:  979.3804482108931
+Epoch Length:  100
+Current Dist:  25615.26156185551
+Best Dist:  17000.73130566338
+Epoch  197
+Temperature:  969.5866437287841
+Epoch Length:  100
+Current Dist:  21679.05933812627
+Best Dist:  17000.73130566338
+Epoch  198
+Temperature:  959.8907772914963
+Epoch Length:  100
+Current Dist:  24999.008383145625
+Best Dist:  17000.73130566338
+Epoch  199
+Temperature:  950.2918695185813
+Epoch Length:  100
+Current Dist:  24076.663410918827
+Best Dist:  17000.73130566338
+Epoch  200
+Temperature:  940.7889508233955
+Epoch Length:  100
+Current Dist:  22002.17773229203
+Best Dist:  17000.73130566338
+Epoch  201
+Temperature:  931.3810613151614
+Epoch Length:  100
+Current Dist:  24926.430367458182
+Best Dist:  17000.73130566338
+Epoch  202
+Temperature:  922.0672507020098
+Epoch Length:  100
+Current Dist:  25479.77149708305
+Best Dist:  17000.73130566338
+Epoch  203
+Temperature:  912.8465781949897
+Epoch Length:  100
+Current Dist:  22562.3821408037
+Best Dist:  17000.73130566338
+Epoch  204
+Temperature:  903.7181124130398
+Epoch Length:  100
+Current Dist:  25706.37262642645
+Best Dist:  17000.73130566338
+Epoch  205
+Temperature:  894.6809312889094
+Epoch Length:  100
+Current Dist:  25848.965935259374
+Best Dist:  17000.73130566338
+Epoch  206
+Temperature:  885.7341219760203
+Epoch Length:  100
+Current Dist:  25113.61511607535
+Best Dist:  17000.73130566338
+Epoch  207
+Temperature:  876.8767807562601
+Epoch Length:  100
+Current Dist:  22108.245900906986
+Best Dist:  17000.73130566338
+Epoch  208
+Temperature:  868.1080129486975
+Epoch Length:  100
+Current Dist:  22143.085460155362
+Best Dist:  17000.73130566338
+Epoch  209
+Temperature:  859.4269328192105
+Epoch Length:  100
+Current Dist:  24690.181342824177
+Best Dist:  17000.73130566338
+Epoch  210
+Temperature:  850.8326634910184
+Epoch Length:  100
+Current Dist:  21712.132023141818
+Best Dist:  17000.73130566338
+Epoch  211
+Temperature:  842.3243368561082
+Epoch Length:  100
+Current Dist:  24449.56570741198
+Best Dist:  17000.73130566338
+Epoch  212
+Temperature:  833.9010934875471
+Epoch Length:  100
+Current Dist:  22744.107748543367
+Best Dist:  17000.73130566338
+Epoch  213
+Temperature:  825.5620825526717
+Epoch Length:  100
+Current Dist:  24076.74481170165
+Best Dist:  17000.73130566338
+Epoch  214
+Temperature:  817.3064617271449
+Epoch Length:  100
+Current Dist:  22456.69607768918
+Best Dist:  17000.73130566338
+Epoch  215
+Temperature:  809.1333971098734
+Epoch Length:  100
+Current Dist:  23405.06267754297
+Best Dist:  17000.73130566338
+Epoch  216
+Temperature:  801.0420631387747
+Epoch Length:  100
+Current Dist:  23486.76819394735
+Best Dist:  17000.73130566338
+Epoch  217
+Temperature:  793.0316425073869
+Epoch Length:  100
+Current Dist:  18336.0029448654
+Best Dist:  16863.40531613982
+Epoch  218
+Temperature:  785.101326082313
+Epoch Length:  100
+Current Dist:  20604.557989055153
+Best Dist:  16863.40531613982
+Epoch  219
+Temperature:  777.2503128214898
+Epoch Length:  100
+Current Dist:  22402.176431210435
+Best Dist:  16863.40531613982
+Epoch  220
+Temperature:  769.4778096932749
+Epoch Length:  100
+Current Dist:  20613.03001858984
+Best Dist:  16863.40531613982
+Epoch  221
+Temperature:  761.7830315963422
+Epoch Length:  100
+Current Dist:  23506.061772724195
+Best Dist:  16863.40531613982
+Epoch  222
+Temperature:  754.1652012803788
+Epoch Length:  100
+Current Dist:  21295.16769556928
+Best Dist:  16863.40531613982
+Epoch  223
+Temperature:  746.6235492675751
+Epoch Length:  100
+Current Dist:  24829.29180053276
+Best Dist:  16863.40531613982
+Epoch  224
+Temperature:  739.1573137748993
+Epoch Length:  100
+Current Dist:  20619.988643965586
+Best Dist:  16863.40531613982
+Epoch  225
+Temperature:  731.7657406371503
+Epoch Length:  100
+Current Dist:  24027.228661489677
+Best Dist:  16863.40531613982
+Epoch  226
+Temperature:  724.4480832307788
+Epoch Length:  100
+Current Dist:  21516.017190865525
+Best Dist:  16863.40531613982
+Epoch  227
+Temperature:  717.203602398471
+Epoch Length:  100
+Current Dist:  21478.174986679733
+Best Dist:  16863.40531613982
+Epoch  228
+Temperature:  710.0315663744864
+Epoch Length:  100
+Current Dist:  25339.637253845252
+Best Dist:  16863.40531613982
+Epoch  229
+Temperature:  702.9312507107416
+Epoch Length:  100
+Current Dist:  22294.91739698164
+Best Dist:  16863.40531613982
+Epoch  230
+Temperature:  695.9019382036341
+Epoch Length:  100
+Current Dist:  22154.001814301555
+Best Dist:  16863.40531613982
+Epoch  231
+Temperature:  688.9429188215978
+Epoch Length:  100
+Current Dist:  22415.55640189319
+Best Dist:  16863.40531613982
+Epoch  232
+Temperature:  682.0534896333818
+Epoch Length:  100
+Current Dist:  20348.079274120744
+Best Dist:  16863.40531613982
+Epoch  233
+Temperature:  675.232954737048
+Epoch Length:  100
+Current Dist:  22897.19931858213
+Best Dist:  16863.40531613982
+Epoch  234
+Temperature:  668.4806251896775
+Epoch Length:  100
+Current Dist:  21193.919405844503
+Best Dist:  16863.40531613982
+Epoch  235
+Temperature:  661.7958189377807
+Epoch Length:  100
+Current Dist:  22332.53169987678
+Best Dist:  16863.40531613982
+Epoch  236
+Temperature:  655.177860748403
+Epoch Length:  100
+Current Dist:  22134.550261329267
+Best Dist:  16863.40531613982
+Epoch  237
+Temperature:  648.6260821409189
+Epoch Length:  100
+Current Dist:  25054.37984002525
+Best Dist:  16863.40531613982
+Epoch  238
+Temperature:  642.1398213195097
+Epoch Length:  100
+Current Dist:  21383.165298955257
+Best Dist:  16863.40531613982
+Epoch  239
+Temperature:  635.7184231063146
+Epoch Length:  100
+Current Dist:  23071.883331339028
+Best Dist:  16863.40531613982
+Epoch  240
+Temperature:  629.3612388752515
+Epoch Length:  100
+Current Dist:  20976.42893008274
+Best Dist:  16863.40531613982
+Epoch  241
+Temperature:  623.067626486499
+Epoch Length:  100
+Current Dist:  22243.107574815313
+Best Dist:  16863.40531613982
+Epoch  242
+Temperature:  616.836950221634
+Epoch Length:  100
+Current Dist:  21126.871034476077
+Best Dist:  16863.40531613982
+Epoch  243
+Temperature:  610.6685807194176
+Epoch Length:  100
+Current Dist:  21265.517452835167
+Best Dist:  16863.40531613982
+Epoch  244
+Temperature:  604.5618949122235
+Epoch Length:  100
+Current Dist:  21303.129940858445
+Best Dist:  16863.40531613982
+Epoch  245
+Temperature:  598.5162759631012
+Epoch Length:  100
+Current Dist:  19127.95898288588
+Best Dist:  16863.40531613982
+Epoch  246
+Temperature:  592.5311132034701
+Epoch Length:  100
+Current Dist:  24133.44954915066
+Best Dist:  16863.40531613982
+Epoch  247
+Temperature:  586.6058020714354
+Epoch Length:  100
+Current Dist:  22282.8919614132
+Best Dist:  16863.40531613982
+Epoch  248
+Temperature:  580.739744050721
+Epoch Length:  100
+Current Dist:  19490.97376360591
+Best Dist:  16863.40531613982
+Epoch  249
+Temperature:  574.9323466102138
+Epoch Length:  100
+Current Dist:  23896.438694284974
+Best Dist:  16863.40531613982
+Epoch  250
+Temperature:  569.1830231441116
+Epoch Length:  100
+Current Dist:  24646.801626969358
+Best Dist:  16863.40531613982
+Epoch  251
+Temperature:  563.4911929126705
+Epoch Length:  100
+Current Dist:  21643.646947201676
+Best Dist:  16863.40531613982
+Epoch  252
+Temperature:  557.8562809835438
+Epoch Length:  100
+Current Dist:  21643.190417068043
+Best Dist:  16863.40531613982
+Epoch  253
+Temperature:  552.2777181737083
+Epoch Length:  100
+Current Dist:  20274.435733678743
+Best Dist:  16512.954312117505
+Epoch  254
+Temperature:  546.7549409919712
+Epoch Length:  100
+Current Dist:  16556.08811322585
+Best Dist:  16186.750079144136
+Epoch  255
+Temperature:  541.2873915820516
+Epoch Length:  100
+Current Dist:  20462.77757980852
+Best Dist:  16186.750079144136
+Epoch  256
+Temperature:  535.874517666231
+Epoch Length:  100
+Current Dist:  25236.089687357737
+Best Dist:  16186.750079144136
+Epoch  257
+Temperature:  530.5157724895687
+Epoch Length:  100
+Current Dist:  22130.453855112635
+Best Dist:  16186.750079144136
+Epoch  258
+Temperature:  525.210614764673
+Epoch Length:  100
+Current Dist:  20344.170593285005
+Best Dist:  16186.750079144136
+Epoch  259
+Temperature:  519.9585086170263
+Epoch Length:  100
+Current Dist:  22222.784137833623
+Best Dist:  16186.750079144136
+Epoch  260
+Temperature:  514.758923530856
+Epoch Length:  100
+Current Dist:  21892.30633399597
+Best Dist:  16186.750079144136
+Epoch  261
+Temperature:  509.61133429554746
+Epoch Length:  100
+Current Dist:  20187.751635106728
+Best Dist:  16186.750079144136
+Epoch  262
+Temperature:  504.51522095259196
+Epoch Length:  100
+Current Dist:  19836.05936817586
+Best Dist:  16186.750079144136
+Epoch  263
+Temperature:  499.470068743066
+Epoch Length:  100
+Current Dist:  20048.34715733165
+Best Dist:  16186.750079144136
+Epoch  264
+Temperature:  494.47536805563533
+Epoch Length:  100
+Current Dist:  21797.101502744965
+Best Dist:  16186.750079144136
+Epoch  265
+Temperature:  489.530614375079
+Epoch Length:  100
+Current Dist:  17969.213723899677
+Best Dist:  16186.750079144136
+Epoch  266
+Temperature:  484.63530823132817
+Epoch Length:  100
+Current Dist:  19171.232341233437
+Best Dist:  16186.750079144136
+Epoch  267
+Temperature:  479.7889551490149
+Epoch Length:  100
+Current Dist:  20838.39105820821
+Best Dist:  16186.750079144136
+Epoch  268
+Temperature:  474.99106559752477
+Epoch Length:  100
+Current Dist:  17590.029698363465
+Best Dist:  16186.750079144136
+Epoch  269
+Temperature:  470.2411549415495
+Epoch Length:  100
+Current Dist:  17530.196778360587
+Best Dist:  16186.750079144136
+Epoch  270
+Temperature:  465.538743392134
+Epoch Length:  100
+Current Dist:  19558.273379867718
+Best Dist:  16186.750079144136
+Epoch  271
+Temperature:  460.88335595821263
+Epoch Length:  100
+Current Dist:  19952.25950700002
+Best Dist:  16186.750079144136
+Epoch  272
+Temperature:  456.2745223986305
+Epoch Length:  100
+Current Dist:  20114.485102441566
+Best Dist:  16186.750079144136
+Epoch  273
+Temperature:  451.71177717464417
+Epoch Length:  100
+Current Dist:  17197.34267816998
+Best Dist:  16186.750079144136
+Epoch  274
+Temperature:  447.19465940289774
+Epoch Length:  100
+Current Dist:  20219.77834321195
+Best Dist:  16186.750079144136
+Epoch  275
+Temperature:  442.7227128088688
+Epoch Length:  100
+Current Dist:  21407.2469875684
+Best Dist:  16186.750079144136
+Epoch  276
+Temperature:  438.2954856807801
+Epoch Length:  100
+Current Dist:  19517.864092244814
+Best Dist:  16186.750079144136
+Epoch  277
+Temperature:  433.91253082397225
+Epoch Length:  100
+Current Dist:  20266.7575229218
+Best Dist:  16176.972068213441
+Epoch  278
+Temperature:  429.57340551573253
+Epoch Length:  100
+Current Dist:  19638.18148921434
+Best Dist:  16176.972068213441
+Epoch  279
+Temperature:  425.2776714605752
+Epoch Length:  100
+Current Dist:  21243.992240745967
+Best Dist:  16176.972068213441
+Epoch  280
+Temperature:  421.02489474596945
+Epoch Length:  100
+Current Dist:  18838.86970669308
+Best Dist:  16176.972068213441
+Epoch  281
+Temperature:  416.81464579850973
+Epoch Length:  100
+Current Dist:  18814.28968335711
+Best Dist:  16176.972068213441
+Epoch  282
+Temperature:  412.64649934052466
+Epoch Length:  100
+Current Dist:  19452.75730790825
+Best Dist:  16176.972068213441
+Epoch  283
+Temperature:  408.5200343471194
+Epoch Length:  100
+Current Dist:  20711.843929462197
+Best Dist:  16176.972068213441
+Epoch  284
+Temperature:  404.43483400364823
+Epoch Length:  100
+Current Dist:  16893.094405639134
+Best Dist:  16051.893841805013
+Epoch  285
+Temperature:  400.39048566361174
+Epoch Length:  100
+Current Dist:  17449.762743437055
+Best Dist:  16051.893841805013
+Epoch  286
+Temperature:  396.38658080697564
+Epoch Length:  100
+Current Dist:  17031.849135018234
+Best Dist:  15813.173530140382
+Epoch  287
+Temperature:  392.42271499890586
+Epoch Length:  100
+Current Dist:  17856.117224007223
+Best Dist:  15813.173530140382
+Epoch  288
+Temperature:  388.4984878489168
+Epoch Length:  100
+Current Dist:  20702.810216644757
+Best Dist:  14632.664253888148
+Epoch  289
+Temperature:  384.61350297042765
+Epoch Length:  100
+Current Dist:  19627.685938397604
+Best Dist:  14632.664253888148
+Epoch  290
+Temperature:  380.7673679407234
+Epoch Length:  100
+Current Dist:  16880.141657308784
+Best Dist:  14632.664253888148
+Epoch  291
+Temperature:  376.95969426131614
+Epoch Length:  100
+Current Dist:  17770.74915674319
+Best Dist:  14632.664253888148
+Epoch  292
+Temperature:  373.19009731870295
+Epoch Length:  100
+Current Dist:  19642.63691257804
+Best Dist:  14632.664253888148
+Epoch  293
+Temperature:  369.45819634551594
+Epoch Length:  100
+Current Dist:  20021.226886963203
+Best Dist:  14632.664253888148
+Epoch  294
+Temperature:  365.7636143820608
+Epoch Length:  100
+Current Dist:  19659.282313174353
+Best Dist:  14632.664253888148
+Epoch  295
+Temperature:  362.10597823824014
+Epoch Length:  100
+Current Dist:  18351.022106235556
+Best Dist:  14632.664253888148
+Epoch  296
+Temperature:  358.4849184558577
+Epoch Length:  100
+Current Dist:  17296.616271291005
+Best Dist:  14632.664253888148
+Epoch  297
+Temperature:  354.9000692712991
+Epoch Length:  100
+Current Dist:  14563.791692988332
+Best Dist:  14248.132754177734
+Epoch  298
+Temperature:  351.35106857858614
+Epoch Length:  100
+Current Dist:  17984.767332117874
+Best Dist:  14248.132754177734
+Epoch  299
+Temperature:  347.83755789280025
+Epoch Length:  100
+Current Dist:  18981.78742017357
+Best Dist:  14248.132754177734
+Epoch  300
+Temperature:  344.3591823138722
+Epoch Length:  100
+Current Dist:  18477.61391776945
+Best Dist:  14248.132754177734
+Epoch  301
+Temperature:  340.9155904907335
+Epoch Length:  100
+Current Dist:  19730.0939783916
+Best Dist:  14248.132754177734
+Epoch  302
+Temperature:  337.5064345858262
+Epoch Length:  100
+Current Dist:  16761.232187906655
+Best Dist:  14248.132754177734
+Epoch  303
+Temperature:  334.1313702399679
+Epoch Length:  100
+Current Dist:  15861.980440201703
+Best Dist:  14248.132754177734
+Epoch  304
+Temperature:  330.7900565375682
+Epoch Length:  100
+Current Dist:  18776.830604755432
+Best Dist:  14248.132754177734
+Epoch  305
+Temperature:  327.4821559721925
+Epoch Length:  100
+Current Dist:  18311.83239879014
+Best Dist:  14248.132754177734
+Epoch  306
+Temperature:  324.2073344124706
+Epoch Length:  100
+Current Dist:  17078.107539764904
+Best Dist:  14248.132754177734
+Epoch  307
+Temperature:  320.96526106834585
+Epoch Length:  100
+Current Dist:  18957.015367828695
+Best Dist:  14248.132754177734
+Epoch  308
+Temperature:  317.7556084576624
+Epoch Length:  100
+Current Dist:  16999.06150044556
+Best Dist:  14248.132754177734
+Epoch  309
+Temperature:  314.57805237308577
+Epoch Length:  100
+Current Dist:  15667.64450245563
+Best Dist:  14248.132754177734
+Epoch  310
+Temperature:  311.4322718493549
+Epoch Length:  100
+Current Dist:  15815.462284807161
+Best Dist:  14248.132754177734
+Epoch  311
+Temperature:  308.31794913086134
+Epoch Length:  100
+Current Dist:  13389.235387712408
+Best Dist:  12129.262885300326
+Epoch  312
+Temperature:  305.2347696395527
+Epoch Length:  100
+Current Dist:  16484.265314011343
+Best Dist:  12129.262885300326
+Epoch  313
+Temperature:  302.1824219431572
+Epoch Length:  100
+Current Dist:  17251.834746206034
+Best Dist:  12129.262885300326
+Epoch  314
+Temperature:  299.16059772372563
+Epoch Length:  100
+Current Dist:  15902.890388670834
+Best Dist:  12129.262885300326
+Epoch  315
+Temperature:  296.16899174648836
+Epoch Length:  100
+Current Dist:  14761.654077122777
+Best Dist:  12129.262885300326
+Epoch  316
+Temperature:  293.2073018290235
+Epoch Length:  100
+Current Dist:  15708.868735194808
+Best Dist:  12129.262885300326
+Epoch  317
+Temperature:  290.27522881073327
+Epoch Length:  100
+Current Dist:  15342.235590942992
+Best Dist:  12129.262885300326
+Epoch  318
+Temperature:  287.37247652262596
+Epoch Length:  100
+Current Dist:  15777.646038706263
+Best Dist:  12129.262885300326
+Epoch  319
+Temperature:  284.4987517573997
+Epoch Length:  100
+Current Dist:  15704.016939278441
+Best Dist:  12129.262885300326
+Epoch  320
+Temperature:  281.6537642398257
+Epoch Length:  100
+Current Dist:  17094.604298694216
+Best Dist:  12129.262885300326
+Epoch  321
+Temperature:  278.83722659742745
+Epoch Length:  100
+Current Dist:  18752.753067831138
+Best Dist:  12129.262885300326
+Epoch  322
+Temperature:  276.0488543314532
+Epoch Length:  100
+Current Dist:  15110.633793325971
+Best Dist:  12129.262885300326
+Epoch  323
+Temperature:  273.28836578813866
+Epoch Length:  100
+Current Dist:  18470.08870434363
+Best Dist:  12129.262885300326
+Epoch  324
+Temperature:  270.55548213025725
+Epoch Length:  100
+Current Dist:  16640.199751971908
+Best Dist:  12129.262885300326
+Epoch  325
+Temperature:  267.84992730895465
+Epoch Length:  100
+Current Dist:  16882.6287523262
+Best Dist:  12129.262885300326
+Epoch  326
+Temperature:  265.1714280358651
+Epoch Length:  100
+Current Dist:  15181.677207615749
+Best Dist:  12129.262885300326
+Epoch  327
+Temperature:  262.5197137555065
+Epoch Length:  100
+Current Dist:  14939.982490374305
+Best Dist:  12129.262885300326
+Epoch  328
+Temperature:  259.8945166179514
+Epoch Length:  100
+Current Dist:  15364.814693113156
+Best Dist:  12129.262885300326
+Epoch  329
+Temperature:  257.2955714517719
+Epoch Length:  100
+Current Dist:  13978.224710239707
+Best Dist:  12129.262885300326
+Epoch  330
+Temperature:  254.72261573725416
+Epoch Length:  100
+Current Dist:  15134.905050120395
+Best Dist:  12129.262885300326
+Epoch  331
+Temperature:  252.17538957988162
+Epoch Length:  100
+Current Dist:  15887.860532247665
+Best Dist:  12129.262885300326
+Epoch  332
+Temperature:  249.65363568408281
+Epoch Length:  100
+Current Dist:  15313.292019548371
+Best Dist:  12129.262885300326
+Epoch  333
+Temperature:  247.15709932724198
+Epoch Length:  100
+Current Dist:  15991.158461537485
+Best Dist:  12129.262885300326
+Epoch  334
+Temperature:  244.68552833396956
+Epoch Length:  100
+Current Dist:  17443.01077210272
+Best Dist:  12129.262885300326
+Epoch  335
+Temperature:  242.23867305062987
+Epoch Length:  100
+Current Dist:  16879.884605790732
+Best Dist:  12129.262885300326
+Epoch  336
+Temperature:  239.81628632012357
+Epoch Length:  100
+Current Dist:  15448.362483358836
+Best Dist:  12129.262885300326
+Epoch  337
+Temperature:  237.41812345692233
+Epoch Length:  100
+Current Dist:  15485.800990021513
+Best Dist:  12129.262885300326
+Epoch  338
+Temperature:  235.0439422223531
+Epoch Length:  100
+Current Dist:  14676.36451949173
+Best Dist:  12129.262885300326
+Epoch  339
+Temperature:  232.69350280012958
+Epoch Length:  100
+Current Dist:  15414.918695908385
+Best Dist:  12129.262885300326
+Epoch  340
+Temperature:  230.3665677721283
+Epoch Length:  100
+Current Dist:  13286.85567903082
+Best Dist:  12129.262885300326
+Epoch  341
+Temperature:  228.062902094407
+Epoch Length:  100
+Current Dist:  13020.843963899946
+Best Dist:  12129.262885300326
+Epoch  342
+Temperature:  225.78227307346293
+Epoch Length:  100
+Current Dist:  12996.761965562142
+Best Dist:  12129.262885300326
+Epoch  343
+Temperature:  223.5244503427283
+Epoch Length:  100
+Current Dist:  14030.056875295135
+Best Dist:  12129.262885300326
+Epoch  344
+Temperature:  221.28920583930102
+Epoch Length:  100
+Current Dist:  13553.849231415714
+Best Dist:  12129.262885300326
+Epoch  345
+Temperature:  219.076313780908
+Epoch Length:  100
+Current Dist:  14517.16010770429
+Best Dist:  12129.262885300326
+Epoch  346
+Temperature:  216.88555064309892
+Epoch Length:  100
+Current Dist:  16312.781622831308
+Best Dist:  12129.262885300326
+Epoch  347
+Temperature:  214.71669513666794
+Epoch Length:  100
+Current Dist:  15530.976404172105
+Best Dist:  12129.262885300326
+Epoch  348
+Temperature:  212.56952818530127
+Epoch Length:  100
+Current Dist:  13769.287136589344
+Best Dist:  12129.262885300326
+Epoch  349
+Temperature:  210.44383290344825
+Epoch Length:  100
+Current Dist:  13917.152775968536
+Best Dist:  12129.262885300326
+Epoch  350
+Temperature:  208.33939457441377
+Epoch Length:  100
+Current Dist:  13344.475771533562
+Best Dist:  12129.262885300326
+Epoch  351
+Temperature:  206.25600062866963
+Epoch Length:  100
+Current Dist:  13223.305725885886
+Best Dist:  12129.262885300326
+Epoch  352
+Temperature:  204.19344062238292
+Epoch Length:  100
+Current Dist:  12576.024972838544
+Best Dist:  12129.262885300326
+Epoch  353
+Temperature:  202.15150621615908
+Epoch Length:  100
+Current Dist:  13475.236100714728
+Best Dist:  12129.262885300326
+Epoch  354
+Temperature:  200.12999115399748
+Epoch Length:  100
+Current Dist:  13956.456060964038
+Best Dist:  12129.262885300326
+Epoch  355
+Temperature:  198.1286912424575
+Epoch Length:  100
+Current Dist:  12850.23630826424
+Best Dist:  12129.262885300326
+Epoch  356
+Temperature:  196.14740433003294
+Epoch Length:  100
+Current Dist:  14851.068273736586
+Best Dist:  12129.262885300326
+Epoch  357
+Temperature:  194.1859302867326
+Epoch Length:  100
+Current Dist:  14349.183359120732
+Best Dist:  12129.262885300326
+Epoch  358
+Temperature:  192.24407098386527
+Epoch Length:  100
+Current Dist:  12486.901646348268
+Best Dist:  12129.262885300326
+Epoch  359
+Temperature:  190.3216302740266
+Epoch Length:  100
+Current Dist:  12977.792788709055
+Best Dist:  12129.262885300326
+Epoch  360
+Temperature:  188.41841397128633
+Epoch Length:  100
+Current Dist:  13732.937251098847
+Best Dist:  12129.262885300326
+Epoch  361
+Temperature:  186.53422983157347
+Epoch Length:  100
+Current Dist:  13777.254264038958
+Best Dist:  12129.262885300326
+Epoch  362
+Temperature:  184.66888753325773
+Epoch Length:  100
+Current Dist:  14686.562149518446
+Best Dist:  12129.262885300326
+Epoch  363
+Temperature:  182.82219865792516
+Epoch Length:  100
+Current Dist:  13656.712558807616
+Best Dist:  12129.262885300326
+Epoch  364
+Temperature:  180.9939766713459
+Epoch Length:  100
+Current Dist:  13189.520084320357
+Best Dist:  12129.262885300326
+Epoch  365
+Temperature:  179.18403690463245
+Epoch Length:  100
+Current Dist:  11721.341913581164
+Best Dist:  11721.341913581164
+Epoch  366
+Temperature:  177.39219653558612
+Epoch Length:  100
+Current Dist:  12026.573728356765
+Best Dist:  11721.341913581164
+Epoch  367
+Temperature:  175.61827457023026
+Epoch Length:  100
+Current Dist:  12438.466111778413
+Best Dist:  11715.56528273046
+Epoch  368
+Temperature:  173.86209182452797
+Epoch Length:  100
+Current Dist:  12226.252618037644
+Best Dist:  11715.56528273046
+Epoch  369
+Temperature:  172.12347090628268
+Epoch Length:  100
+Current Dist:  12544.211003210825
+Best Dist:  11562.656511429948
+Epoch  370
+Temperature:  170.40223619721985
+Epoch Length:  100
+Current Dist:  13063.538753976422
+Best Dist:  11562.656511429948
+Epoch  371
+Temperature:  168.69821383524766
+Epoch Length:  100
+Current Dist:  12683.333933134092
+Best Dist:  11562.656511429948
+Epoch  372
+Temperature:  167.01123169689518
+Epoch Length:  100
+Current Dist:  12884.176846076169
+Best Dist:  11562.656511429948
+Epoch  373
+Temperature:  165.34111937992623
+Epoch Length:  100
+Current Dist:  13203.852587132951
+Best Dist:  11562.656511429948
+Epoch  374
+Temperature:  163.68770818612697
+Epoch Length:  100
+Current Dist:  11577.345557277626
+Best Dist:  11562.656511429948
+Epoch  375
+Temperature:  162.0508311042657
+Epoch Length:  100
+Current Dist:  11495.200919679291
+Best Dist:  10923.619899600737
+Epoch  376
+Temperature:  160.43032279322304
+Epoch Length:  100
+Current Dist:  12133.144243990022
+Best Dist:  10923.619899600737
+Epoch  377
+Temperature:  158.8260195652908
+Epoch Length:  100
+Current Dist:  12466.362869155171
+Best Dist:  10923.619899600737
+Epoch  378
+Temperature:  157.2377593696379
+Epoch Length:  100
+Current Dist:  11470.359050431896
+Best Dist:  10923.619899600737
+Epoch  379
+Temperature:  155.6653817759415
+Epoch Length:  100
+Current Dist:  11228.336980975078
+Best Dist:  10476.16522482922
+Epoch  380
+Temperature:  154.1087279581821
+Epoch Length:  100
+Current Dist:  11643.931686268817
+Best Dist:  10476.16522482922
+Epoch  381
+Temperature:  152.56764067860027
+Epoch Length:  100
+Current Dist:  11405.600404222265
+Best Dist:  10476.16522482922
+Epoch  382
+Temperature:  151.04196427181427
+Epoch Length:  100
+Current Dist:  9779.514747688048
+Best Dist:  9779.514747688048
+Epoch  383
+Temperature:  149.53154462909612
+Epoch Length:  100
+Current Dist:  9552.265429520408
+Best Dist:  9552.265429520408
+Epoch  384
+Temperature:  148.03622918280516
+Epoch Length:  100
+Current Dist:  9983.57639412471
+Best Dist:  9545.601076511695
+Epoch  385
+Temperature:  146.55586689097711
+Epoch Length:  100
+Current Dist:  9107.0333357566
+Best Dist:  9107.0333357566
+Epoch  386
+Temperature:  145.09030822206734
+Epoch Length:  100
+Current Dist:  9414.83899907561
+Best Dist:  9081.94662609307
+Epoch  387
+Temperature:  143.63940513984667
+Epoch Length:  100
+Current Dist:  9555.295646016664
+Best Dist:  9031.255775387272
+Epoch  388
+Temperature:  142.2030110884482
+Epoch Length:  100
+Current Dist:  9415.907082318547
+Best Dist:  9031.255775387272
+Epoch  389
+Temperature:  140.7809809775637
+Epoch Length:  100
+Current Dist:  9465.540336103808
+Best Dist:  9031.255775387272
+Epoch  390
+Temperature:  139.37317116778806
+Epoch Length:  100
+Current Dist:  10096.041376352196
+Best Dist:  9031.255775387272
+Epoch  391
+Temperature:  137.97943945611019
+Epoch Length:  100
+Current Dist:  10120.85891473834
+Best Dist:  9031.255775387272
+Epoch  392
+Temperature:  136.59964506154907
+Epoch Length:  100
+Current Dist:  10744.635976417158
+Best Dist:  9031.255775387272
+Epoch  393
+Temperature:  135.23364861093359
+Epoch Length:  100
+Current Dist:  11702.642886155034
+Best Dist:  9031.255775387272
+Epoch  394
+Temperature:  133.88131212482423
+Epoch Length:  100
+Current Dist:  11391.311514049858
+Best Dist:  9031.255775387272
+Epoch  395
+Temperature:  132.54249900357598
+Epoch Length:  100
+Current Dist:  10683.332785305467
+Best Dist:  9031.255775387272
+Epoch  396
+Temperature:  131.2170740135402
+Epoch Length:  100
+Current Dist:  10507.363110051827
+Best Dist:  9031.255775387272
+Epoch  397
+Temperature:  129.9049032734048
+Epoch Length:  100
+Current Dist:  10248.499336243769
+Best Dist:  9031.255775387272
+Epoch  398
+Temperature:  128.60585424067077
+Epoch Length:  100
+Current Dist:  10088.029856007644
+Best Dist:  9031.255775387272
+Epoch  399
+Temperature:  127.31979569826406
+Epoch Length:  100
+Current Dist:  9695.742519713936
+Best Dist:  9031.255775387272
+Epoch  400
+Temperature:  126.04659774128142
+Epoch Length:  100
+Current Dist:  9202.316069959179
+Best Dist:  9031.255775387272
+Epoch  401
+Temperature:  124.7861317638686
+Epoch Length:  100
+Current Dist:  9285.143717971378
+Best Dist:  9031.255775387272
+Epoch  402
+Temperature:  123.53827044622992
+Epoch Length:  100
+Current Dist:  9278.602061888776
+Best Dist:  9031.255775387272
+Epoch  403
+Temperature:  122.30288774176762
+Epoch Length:  100
+Current Dist:  8752.108926203526
+Best Dist:  8752.108926203526
+Epoch  404
+Temperature:  121.07985886434994
+Epoch Length:  100
+Current Dist:  8994.18702139875
+Best Dist:  8752.108926203526
+Epoch  405
+Temperature:  119.86906027570645
+Epoch Length:  100
+Current Dist:  8297.244669865162
+Best Dist:  8297.244669865162
+Epoch  406
+Temperature:  118.67036967294938
+Epoch Length:  100
+Current Dist:  8315.974049766852
+Best Dist:  8009.740625185359
+Epoch  407
+Temperature:  117.48366597621988
+Epoch Length:  100
+Current Dist:  8847.100124333077
+Best Dist:  8009.740625185359
+Epoch  408
+Temperature:  116.30882931645768
+Epoch Length:  100
+Current Dist:  10240.605659666136
+Best Dist:  8009.740625185359
+Epoch  409
+Temperature:  115.1457410232931
+Epoch Length:  100
+Current Dist:  9505.795269365864
+Best Dist:  8009.740625185359
+Epoch  410
+Temperature:  113.99428361306016
+Epoch Length:  100
+Current Dist:  9288.923223489857
+Best Dist:  8009.740625185359
+Epoch  411
+Temperature:  112.85434077692956
+Epoch Length:  100
+Current Dist:  9780.62689017748
+Best Dist:  8009.740625185359
+Epoch  412
+Temperature:  111.72579736916026
+Epoch Length:  100
+Current Dist:  9567.477389150938
+Best Dist:  8009.740625185359
+Epoch  413
+Temperature:  110.60853939546865
+Epoch Length:  100
+Current Dist:  9081.017103976632
+Best Dist:  8009.740625185359
+Epoch  414
+Temperature:  109.50245400151397
+Epoch Length:  100
+Current Dist:  7858.041498272984
+Best Dist:  7858.041498272984
+Epoch  415
+Temperature:  108.40742946149882
+Epoch Length:  100
+Current Dist:  7850.687179186365
+Best Dist:  7841.131338684593
+Epoch  416
+Temperature:  107.32335516688383
+Epoch Length:  100
+Current Dist:  7777.393046316325
+Best Dist:  7377.313065766337
+Epoch  417
+Temperature:  106.250121615215
+Epoch Length:  100
+Current Dist:  7206.107130197685
+Best Dist:  7206.107130197685
+Epoch  418
+Temperature:  105.18762039906284
+Epoch Length:  100
+Current Dist:  7256.979662210571
+Best Dist:  7206.107130197685
+Epoch  419
+Temperature:  104.1357441950722
+Epoch Length:  100
+Current Dist:  7227.610044602913
+Best Dist:  7206.107130197685
+Epoch  420
+Temperature:  103.09438675312148
+Epoch Length:  100
+Current Dist:  7525.37663892503
+Best Dist:  7206.107130197685
+Epoch  421
+Temperature:  102.06344288559026
+Epoch Length:  100
+Current Dist:  7350.586440811795
+Best Dist:  7206.107130197685
+Epoch  422
+Temperature:  101.04280845673436
+Epoch Length:  100
+Current Dist:  7758.446140087084
+Best Dist:  7206.107130197685
+Epoch  423
+Temperature:  100.03238037216701
+Epoch Length:  100
+Current Dist:  7846.433546962192
+Best Dist:  7206.107130197685
+Epoch  424
+Temperature:  99.03205656844534
+Epoch Length:  100
+Current Dist:  8120.812931778799
+Best Dist:  7206.107130197685
+Epoch  425
+Temperature:  98.04173600276089
+Epoch Length:  100
+Current Dist:  8034.914597971739
+Best Dist:  7206.107130197685
+Epoch  426
+Temperature:  97.06131864273327
+Epoch Length:  100
+Current Dist:  8007.217286279138
+Best Dist:  7206.107130197685
+Epoch  427
+Temperature:  96.09070545630594
+Epoch Length:  100
+Current Dist:  8425.029344988016
+Best Dist:  7206.107130197685
+Epoch  428
+Temperature:  95.12979840174287
+Epoch Length:  100
+Current Dist:  8730.783768051691
+Best Dist:  7206.107130197685
+Epoch  429
+Temperature:  94.17850041772545
+Epoch Length:  100
+Current Dist:  8991.122082321814
+Best Dist:  7206.107130197685
+Epoch  430
+Temperature:  93.2367154135482
+Epoch Length:  100
+Current Dist:  9368.793822977741
+Best Dist:  7206.107130197685
+Epoch  431
+Temperature:  92.30434825941272
+Epoch Length:  100
+Current Dist:  9063.340527224935
+Best Dist:  7206.107130197685
+Epoch  432
+Temperature:  91.3813047768186
+Epoch Length:  100
+Current Dist:  8480.889225755467
+Best Dist:  7206.107130197685
+Epoch  433
+Temperature:  90.46749172905041
+Epoch Length:  100
+Current Dist:  8454.595213737482
+Best Dist:  7206.107130197685
+Epoch  434
+Temperature:  89.5628168117599
+Epoch Length:  100
+Current Dist:  8651.92343794457
+Best Dist:  7206.107130197685
+Epoch  435
+Temperature:  88.6671886436423
+Epoch Length:  100
+Current Dist:  8287.615845193084
+Best Dist:  7206.107130197685
+Epoch  436
+Temperature:  87.78051675720589
+Epoch Length:  100
+Current Dist:  8417.849359967639
+Best Dist:  7206.107130197685
+Epoch  437
+Temperature:  86.90271158963382
+Epoch Length:  100
+Current Dist:  8123.183749463308
+Best Dist:  7206.107130197685
+Epoch  438
+Temperature:  86.03368447373748
+Epoch Length:  100
+Current Dist:  8108.930848794159
+Best Dist:  7206.107130197685
+Epoch  439
+Temperature:  85.1733476290001
+Epoch Length:  100
+Current Dist:  8213.96700726796
+Best Dist:  7206.107130197685
+Epoch  440
+Temperature:  84.3216141527101
+Epoch Length:  100
+Current Dist:  8486.30503660038
+Best Dist:  7206.107130197685
+Epoch  441
+Temperature:  83.47839801118299
+Epoch Length:  100
+Current Dist:  8172.438630109469
+Best Dist:  7206.107130197685
+Epoch  442
+Temperature:  82.64361403107115
+Epoch Length:  100
+Current Dist:  7941.276846059139
+Best Dist:  7206.107130197685
+Epoch  443
+Temperature:  81.81717789076043
+Epoch Length:  100
+Current Dist:  8049.8355131111375
+Best Dist:  7206.107130197685
+Epoch  444
+Temperature:  80.99900611185282
+Epoch Length:  100
+Current Dist:  7693.046654165005
+Best Dist:  7206.107130197685
+Epoch  445
+Temperature:  80.1890160507343
+Epoch Length:  100
+Current Dist:  7609.041409999937
+Best Dist:  7206.107130197685
+Epoch  446
+Temperature:  79.38712589022695
+Epoch Length:  100
+Current Dist:  7640.284860352799
+Best Dist:  7206.107130197685
+Epoch  447
+Temperature:  78.59325463132468
+Epoch Length:  100
+Current Dist:  7451.6365734179635
+Best Dist:  7206.107130197685
+Epoch  448
+Temperature:  77.80732208501144
+Epoch Length:  100
+Current Dist:  7486.746755784652
+Best Dist:  7206.107130197685
+Epoch  449
+Temperature:  77.02924886416132
+Epoch Length:  100
+Current Dist:  7339.851451929407
+Best Dist:  7206.107130197685
+Epoch  450
+Temperature:  76.2589563755197
+Epoch Length:  100
+Current Dist:  7208.116591691758
+Best Dist:  7206.107130197685
+Epoch  451
+Temperature:  75.4963668117645
+Epoch Length:  100
+Current Dist:  7719.472094775814
+Best Dist:  7206.107130197685
+Epoch  452
+Temperature:  74.74140314364686
+Epoch Length:  100
+Current Dist:  7961.271313120579
+Best Dist:  7206.107130197685
+Epoch  453
+Temperature:  73.9939891122104
+Epoch Length:  100
+Current Dist:  7584.253005216177
+Best Dist:  7206.107130197685
+Epoch  454
+Temperature:  73.2540492210883
+Epoch Length:  100
+Current Dist:  7689.826201675093
+Best Dist:  7206.107130197685
+Epoch  455
+Temperature:  72.52150872887741
+Epoch Length:  100
+Current Dist:  7682.696316992052
+Best Dist:  7206.107130197685
+Epoch  456
+Temperature:  71.79629364158863
+Epoch Length:  100
+Current Dist:  8022.749107589485
+Best Dist:  7206.107130197685
+Epoch  457
+Temperature:  71.07833070517275
+Epoch Length:  100
+Current Dist:  7759.671199212563
+Best Dist:  7206.107130197685
+Epoch  458
+Temperature:  70.36754739812102
+Epoch Length:  100
+Current Dist:  7997.861416130939
+Best Dist:  7206.107130197685
+Epoch  459
+Temperature:  69.66387192413981
+Epoch Length:  100
+Current Dist:  8150.287171282303
+Best Dist:  7206.107130197685
+Epoch  460
+Temperature:  68.96723320489842
+Epoch Length:  100
+Current Dist:  8191.2968137898415
+Best Dist:  7206.107130197685
+Epoch  461
+Temperature:  68.27756087284943
+Epoch Length:  100
+Current Dist:  7939.245408517929
+Best Dist:  7206.107130197685
+Epoch  462
+Temperature:  67.59478526412094
+Epoch Length:  100
+Current Dist:  7703.477598366028
+Best Dist:  7206.107130197685
+Epoch  463
+Temperature:  66.91883741147973
+Epoch Length:  100
+Current Dist:  7606.713011665433
+Best Dist:  7206.107130197685
+Epoch  464
+Temperature:  66.24964903736493
+Epoch Length:  100
+Current Dist:  7606.713011665433
+Best Dist:  7206.107130197685
+Epoch  465
+Temperature:  65.58715254699128
+Epoch Length:  100
+Current Dist:  7653.120091229201
+Best Dist:  7206.107130197685
+Epoch  466
+Temperature:  64.93128102152136
+Epoch Length:  100
+Current Dist:  7695.834932070902
+Best Dist:  7206.107130197685
+Epoch  467
+Temperature:  64.28196821130614
+Epoch Length:  100
+Current Dist:  7613.9669730591495
+Best Dist:  7206.107130197685
+Epoch  468
+Temperature:  63.63914852919307
+Epoch Length:  100
+Current Dist:  7257.741171186729
+Best Dist:  7206.107130197685
+Epoch  469
+Temperature:  63.00275704390114
+Epoch Length:  100
+Current Dist:  7184.430673112684
+Best Dist:  7183.9276265930075
+Epoch  470
+Temperature:  62.37272947346213
+Epoch Length:  100
+Current Dist:  7167.389203453153
+Best Dist:  7167.389203453153
+Epoch  471
+Temperature:  61.74900217872751
+Epoch Length:  100
+Current Dist:  7248.410822790764
+Best Dist:  7151.109360536267
+Epoch  472
+Temperature:  61.13151215694023
+Epoch Length:  100
+Current Dist:  7444.0998854155505
+Best Dist:  7151.109360536267
+Epoch  473
+Temperature:  60.52019703537083
+Epoch Length:  100
+Current Dist:  7282.018219918573
+Best Dist:  7151.109360536267
+Epoch  474
+Temperature:  59.914995065017116
+Epoch Length:  100
+Current Dist:  7316.868449460543
+Best Dist:  6936.489004711177
+Epoch  475
+Temperature:  59.315845114366944
+Epoch Length:  100
+Current Dist:  7200.383620329509
+Best Dist:  6936.489004711177
+Epoch  476
+Temperature:  58.72268666322327
+Epoch Length:  100
+Current Dist:  7132.886197579999
+Best Dist:  6936.489004711177
+Epoch  477
+Temperature:  58.135459796591036
+Epoch Length:  100
+Current Dist:  7001.482332031702
+Best Dist:  6936.489004711177
+Epoch  478
+Temperature:  57.55410519862512
+Epoch Length:  100
+Current Dist:  6884.129105808706
+Best Dist:  6884.129105808706
+Epoch  479
+Temperature:  56.978564146638874
+Epoch Length:  100
+Current Dist:  6884.129105808706
+Best Dist:  6884.129105808706
+Epoch  480
+Temperature:  56.408778505172485
+Epoch Length:  100
+Current Dist:  7436.9603292618085
+Best Dist:  6884.129105808706
+Epoch  481
+Temperature:  55.84469072012076
+Epoch Length:  100
+Current Dist:  7479.281023674895
+Best Dist:  6884.129105808706
+Epoch  482
+Temperature:  55.28624381291955
+Epoch Length:  100
+Current Dist:  7508.906640173852
+Best Dist:  6884.129105808706
+Epoch  483
+Temperature:  54.733381374790355
+Epoch Length:  100
+Current Dist:  7515.105980952384
+Best Dist:  6884.129105808706
+Epoch  484
+Temperature:  54.18604756104245
+Epoch Length:  100
+Current Dist:  7526.623751413192
+Best Dist:  6884.129105808706
+Epoch  485
+Temperature:  53.64418708543202
+Epoch Length:  100
+Current Dist:  7366.53424822669
+Best Dist:  6884.129105808706
+Epoch  486
+Temperature:  53.107745214577704
+Epoch Length:  100
+Current Dist:  7343.41559943269
+Best Dist:  6884.129105808706
+Epoch  487
+Temperature:  52.576667762431924
+Epoch Length:  100
+Current Dist:  7409.730160780644
+Best Dist:  6884.129105808706
+Epoch  488
+Temperature:  52.050901084807606
+Epoch Length:  100
+Current Dist:  7295.471874331675
+Best Dist:  6884.129105808706
+Epoch  489
+Temperature:  51.53039207395953
+Epoch Length:  100
+Current Dist:  7300.908935752979
+Best Dist:  6884.129105808706
+Epoch  490
+Temperature:  51.015088153219935
+Epoch Length:  100
+Current Dist:  7238.169014188105
+Best Dist:  6884.129105808706
+Epoch  491
+Temperature:  50.50493727168774
+Epoch Length:  100
+Current Dist:  7353.57650010363
+Best Dist:  6884.129105808706
+Epoch  492
+Temperature:  49.99988789897086
+Epoch Length:  100
+Current Dist:  7377.072913540255
+Best Dist:  6884.129105808706
+Epoch  493
+Temperature:  49.499889019981154
+Epoch Length:  100
+Current Dist:  7077.508102656918
+Best Dist:  6884.129105808706
+Epoch  494
+Temperature:  49.004890129781344
+Epoch Length:  100
+Current Dist:  7077.508102656918
+Best Dist:  6884.129105808706
+Epoch  495
+Temperature:  48.51484122848353
+Epoch Length:  100
+Current Dist:  7043.768507902124
+Best Dist:  6884.129105808706
+Epoch  496
+Temperature:  48.0296928161987
+Epoch Length:  100
+Current Dist:  7131.611806269328
+Best Dist:  6884.129105808706
+Epoch  497
+Temperature:  47.549395888036706
+Epoch Length:  100
+Current Dist:  7107.5456202144
+Best Dist:  6884.129105808706
+Epoch  498
+Temperature:  47.073901929156335
+Epoch Length:  100
+Current Dist:  7107.5456202144
+Best Dist:  6884.129105808706
+Epoch  499
+Temperature:  46.60316290986477
+Epoch Length:  100
+Current Dist:  7070.659147801276
+Best Dist:  6884.129105808706
+Epoch  500
+Temperature:  46.13713128076612
+Epoch Length:  100
+Current Dist:  6935.02635413731
+Best Dist:  6884.129105808706
+Epoch  501
+Temperature:  45.675759967958456
+Epoch Length:  100
+Current Dist:  6856.32820413652
+Best Dist:  6856.32820413652
+Epoch  502
+Temperature:  45.21900236827887
+Epoch Length:  100
+Current Dist:  6836.094095045592
+Best Dist:  6829.280830897068
+Epoch  503
+Temperature:  44.76681234459608
+Epoch Length:  100
+Current Dist:  6816.066682905818
+Best Dist:  6816.066682905818
+Epoch  504
+Temperature:  44.31914422115012
+Epoch Length:  100
+Current Dist:  6857.915248619065
+Best Dist:  6740.3684640343445
+Epoch  505
+Temperature:  43.87595277893862
+Epoch Length:  100
+Current Dist:  6787.8426292119975
+Best Dist:  6740.3684640343445
+Epoch  506
+Temperature:  43.43719325114923
+Epoch Length:  100
+Current Dist:  6793.782737152978
+Best Dist:  6740.3684640343445
+Epoch  507
+Temperature:  43.002821318637736
+Epoch Length:  100
+Current Dist:  6738.574438401709
+Best Dist:  6738.574438401709
+Epoch  508
+Temperature:  42.57279310545136
+Epoch Length:  100
+Current Dist:  6782.382557543659
+Best Dist:  6738.0540159701
+Epoch  509
+Temperature:  42.14706517439684
+Epoch Length:  100
+Current Dist:  6784.559095737055
+Best Dist:  6738.0540159701
+Epoch  510
+Temperature:  41.72559452265288
+Epoch Length:  100
+Current Dist:  6824.08343934668
+Best Dist:  6738.0540159701
+Epoch  511
+Temperature:  41.30833857742635
+Epoch Length:  100
+Current Dist:  6821.579576090824
+Best Dist:  6738.0540159701
+Epoch  512
+Temperature:  40.89525519165208
+Epoch Length:  100
+Current Dist:  6789.06381843642
+Best Dist:  6738.0540159701
+Epoch  513
+Temperature:  40.48630263973556
+Epoch Length:  100
+Current Dist:  6789.06381843642
+Best Dist:  6738.0540159701
+Epoch  514
+Temperature:  40.081439613338205
+Epoch Length:  100
+Current Dist:  6811.980270259607
+Best Dist:  6738.0540159701
+Epoch  515
+Temperature:  39.68062521720482
+Epoch Length:  100
+Current Dist:  6811.980270259607
+Best Dist:  6738.0540159701
+Epoch  516
+Temperature:  39.28381896503277
+Epoch Length:  100
+Current Dist:  6921.466829957461
+Best Dist:  6738.0540159701
+Epoch  517
+Temperature:  38.890980775382445
+Epoch Length:  100
+Current Dist:  6995.592725169711
+Best Dist:  6738.0540159701
+Epoch  518
+Temperature:  38.50207096762862
+Epoch Length:  100
+Current Dist:  6865.558330900474
+Best Dist:  6738.0540159701
+Epoch  519
+Temperature:  38.117050257952336
+Epoch Length:  100
+Current Dist:  6743.149119643771
+Best Dist:  6738.0540159701
+Epoch  520
+Temperature:  37.735879755372814
+Epoch Length:  100
+Current Dist:  6796.724538757145
+Best Dist:  6738.0540159701
+Epoch  521
+Temperature:  37.35852095781909
+Epoch Length:  100
+Current Dist:  6825.984451449831
+Best Dist:  6738.0540159701
+Epoch  522
+Temperature:  36.9849357482409
+Epoch Length:  100
+Current Dist:  6759.736181434164
+Best Dist:  6738.0540159701
+Epoch  523
+Temperature:  36.61508639075849
+Epoch Length:  100
+Current Dist:  6780.284016005547
+Best Dist:  6738.0540159701
+Epoch  524
+Temperature:  36.24893552685091
+Epoch Length:  100
+Current Dist:  6811.66042247175
+Best Dist:  6738.0540159701
+Epoch  525
+Temperature:  35.8864461715824
+Epoch Length:  100
+Current Dist:  6798.595046147022
+Best Dist:  6738.0540159701
+Epoch  526
+Temperature:  35.527581709866574
+Epoch Length:  100
+Current Dist:  6808.023289291232
+Best Dist:  6738.0540159701
+Epoch  527
+Temperature:  35.17230589276791
+Epoch Length:  100
+Current Dist:  6812.272782294797
+Best Dist:  6738.0540159701
+Epoch  528
+Temperature:  34.82058283384023
+Epoch Length:  100
+Current Dist:  6788.310966895297
+Best Dist:  6738.0540159701
+Epoch  529
+Temperature:  34.472377005501826
+Epoch Length:  100
+Current Dist:  6788.310966895297
+Best Dist:  6738.0540159701
+Epoch  530
+Temperature:  34.12765323544681
+Epoch Length:  100
+Current Dist:  6714.532175206542
+Best Dist:  6711.974702725466
+Epoch  531
+Temperature:  33.78637670309234
+Epoch Length:  100
+Current Dist:  6714.532175206542
+Best Dist:  6711.974702725466
+Epoch  532
+Temperature:  33.44851293606141
+Epoch Length:  100
+Current Dist:  6719.170479434751
+Best Dist:  6711.974702725466
+Epoch  533
+Temperature:  33.1140278067008
+Epoch Length:  100
+Current Dist:  6719.170479434751
+Best Dist:  6711.974702725466
+Epoch  534
+Temperature:  32.782887528633786
+Epoch Length:  100
+Current Dist:  6707.5449140067185
+Best Dist:  6707.5449140067185
+Epoch  535
+Temperature:  32.45505865334745
+Epoch Length:  100
+Current Dist:  6704.62857678416
+Best Dist:  6704.62857678416
+Epoch  536
+Temperature:  32.130508066813974
+Epoch Length:  100
+Current Dist:  6750.163284148437
+Best Dist:  6704.62857678416
+Epoch  537
+Temperature:  31.809202986145834
+Epoch Length:  100
+Current Dist:  6729.615449577054
+Best Dist:  6704.62857678416
+Epoch  538
+Temperature:  31.491110956284377
+Epoch Length:  100
+Current Dist:  6732.531786799613
+Best Dist:  6704.62857678416
+Epoch  539
+Temperature:  31.176199846721534
+Epoch Length:  100
+Current Dist:  6732.531786799613
+Best Dist:  6704.62857678416
+Epoch  540
+Temperature:  30.86443784825432
+Epoch Length:  100
+Current Dist:  6733.787455567917
+Best Dist:  6704.62857678416
+Epoch  541
+Temperature:  30.555793469771775
+Epoch Length:  100
+Current Dist:  6732.531786799613
+Best Dist:  6704.62857678416
+Epoch  542
+Temperature:  30.250235535074058
+Epoch Length:  100
+Current Dist:  6862.56618106885
+Best Dist:  6704.62857678416
+Epoch  543
+Temperature:  29.94773317972332
+Epoch Length:  100
+Current Dist:  6862.56618106885
+Best Dist:  6704.62857678416
+Epoch  544
+Temperature:  29.648255847926084
+Epoch Length:  100
+Current Dist:  6922.425604315458
+Best Dist:  6704.62857678416
+Epoch  545
+Temperature:  29.35177328944682
+Epoch Length:  100
+Current Dist:  6914.081900493158
+Best Dist:  6704.62857678416
+Epoch  546
+Temperature:  29.058255556552353
+Epoch Length:  100
+Current Dist:  6914.081900493158
+Best Dist:  6704.62857678416
+Epoch  547
+Temperature:  28.76767300098683
+Epoch Length:  100
+Current Dist:  6824.519573261592
+Best Dist:  6704.62857678416
+Epoch  548
+Temperature:  28.47999627097696
+Epoch Length:  100
+Current Dist:  6762.652332497508
+Best Dist:  6704.62857678416
+Epoch  549
+Temperature:  28.195196308267192
+Epoch Length:  100
+Current Dist:  6762.652332497508
+Best Dist:  6704.62857678416
+Epoch  550
+Temperature:  27.91324434518452
+Epoch Length:  100
+Current Dist:  6786.381134982583
+Best Dist:  6704.62857678416
+Epoch  551
+Temperature:  27.634111901732673
+Epoch Length:  100
+Current Dist:  6761.311853418301
+Best Dist:  6704.62857678416
+Epoch  552
+Temperature:  27.357770782715345
+Epoch Length:  100
+Current Dist:  6764.22819064086
+Best Dist:  6704.62857678416
+Epoch  553
+Temperature:  27.08419307488819
+Epoch Length:  100
+Current Dist:  6767.535251478498
+Best Dist:  6704.62857678416
+Epoch  554
+Temperature:  26.813351144139308
+Epoch Length:  100
+Current Dist:  6778.54287099285
+Best Dist:  6704.62857678416
+Epoch  555
+Temperature:  26.545217632697913
+Epoch Length:  100
+Current Dist:  6778.54287099285
+Best Dist:  6704.62857678416
+Epoch  556
+Temperature:  26.279765456370935
+Epoch Length:  100
+Current Dist:  6751.495497753398
+Best Dist:  6704.62857678416
+Epoch  557
+Temperature:  26.016967801807226
+Epoch Length:  100
+Current Dist:  6741.8283573182525
+Best Dist:  6704.62857678416
+Epoch  558
+Temperature:  25.756798123789153
+Epoch Length:  100
+Current Dist:  6741.8283573182525
+Best Dist:  6704.62857678416
+Epoch  559
+Temperature:  25.499230142551262
+Epoch Length:  100
+Current Dist:  6741.8283573182525
+Best Dist:  6704.62857678416
+Epoch  560
+Temperature:  25.24423784112575
+Epoch Length:  100
+Current Dist:  6781.060907495367
+Best Dist:  6704.62857678416
+Epoch  561
+Temperature:  24.991795462714492
+Epoch Length:  100
+Current Dist:  6781.060907495367
+Best Dist:  6704.62857678416
+Epoch  562
+Temperature:  24.74187750808735
+Epoch Length:  100
+Current Dist:  6781.060907495367
+Best Dist:  6704.62857678416
+Epoch  563
+Temperature:  24.494458733006475
+Epoch Length:  100
+Current Dist:  6755.815013285789
+Best Dist:  6704.62857678416
+Epoch  564
+Temperature:  24.24951414567641
+Epoch Length:  100
+Current Dist:  6755.815013285789
+Best Dist:  6704.62857678416
+Epoch  565
+Temperature:  24.007019004219647
+Epoch Length:  100
+Current Dist:  6746.668295282252
+Best Dist:  6704.62857678416
+Epoch  566
+Temperature:  23.76694881417745
+Epoch Length:  100
+Current Dist:  6756.335435717398
+Best Dist:  6704.62857678416
+Epoch  567
+Temperature:  23.529279326035674
+Epoch Length:  100
+Current Dist:  6743.864280964291
+Best Dist:  6704.62857678416
+Epoch  568
+Temperature:  23.293986532775317
+Epoch Length:  100
+Current Dist:  6743.864280964291
+Best Dist:  6704.62857678416
+Epoch  569
+Temperature:  23.061046667447563
+Epoch Length:  100
+Current Dist:  6789.523677273433
+Best Dist:  6704.62857678416
+Epoch  570
+Temperature:  22.830436200773086
+Epoch Length:  100
+Current Dist:  6789.523677273433
+Best Dist:  6704.62857678416
+Epoch  571
+Temperature:  22.602131838765356
+Epoch Length:  100
+Current Dist:  6809.075881957914
+Best Dist:  6704.62857678416
+Epoch  572
+Temperature:  22.3761105203777
+Epoch Length:  100
+Current Dist:  6804.978381193892
+Best Dist:  6704.62857678416
+Epoch  573
+Temperature:  22.152349415173923
+Epoch Length:  100
+Current Dist:  6802.062043971334
+Best Dist:  6704.62857678416
+Epoch  574
+Temperature:  21.930825921022183
+Epoch Length:  100
+Current Dist:  6758.798562453141
+Best Dist:  6704.62857678416
+Epoch  575
+Temperature:  21.71151766181196
+Epoch Length:  100
+Current Dist:  6806.234014984574
+Best Dist:  6704.62857678416
+Epoch  576
+Temperature:  21.49440248519384
+Epoch Length:  100
+Current Dist:  6845.385161809663
+Best Dist:  6704.62857678416
+Epoch  577
+Temperature:  21.279458460341903
+Epoch Length:  100
+Current Dist:  6845.385161809663
+Best Dist:  6704.62857678416
+Epoch  578
+Temperature:  21.066663875738485
+Epoch Length:  100
+Current Dist:  6821.776501406236
+Best Dist:  6704.62857678416
+Epoch  579
+Temperature:  20.8559972369811
+Epoch Length:  100
+Current Dist:  6841.167770912631
+Best Dist:  6704.62857678416
+Epoch  580
+Temperature:  20.647437264611288
+Epoch Length:  100
+Current Dist:  6841.167770912631
+Best Dist:  6704.62857678416
+Epoch  581
+Temperature:  20.440962891965174
+Epoch Length:  100
+Current Dist:  6708.256185821742
+Best Dist:  6704.62857678416
+Epoch  582
+Temperature:  20.236553263045522
+Epoch Length:  100
+Current Dist:  6723.782486632684
+Best Dist:  6704.62857678416
+Epoch  583
+Temperature:  20.034187730415066
+Epoch Length:  100
+Current Dist:  6720.866149410125
+Best Dist:  6704.62857678416
+Epoch  584
+Temperature:  19.833845853110915
+Epoch Length:  100
+Current Dist:  6720.866149410125
+Best Dist:  6704.62857678416
+Epoch  585
+Temperature:  19.635507394579808
+Epoch Length:  100
+Current Dist:  6745.371741366633
+Best Dist:  6704.62857678416
+Epoch  586
+Temperature:  19.439152320634008
+Epoch Length:  100
+Current Dist:  6760.815007387239
+Best Dist:  6704.62857678416
+Epoch  587
+Temperature:  19.244760797427666
+Epoch Length:  100
+Current Dist:  6760.815007387239
+Best Dist:  6704.62857678416
+Epoch  588
+Temperature:  19.05231318945339
+Epoch Length:  100
+Current Dist:  6761.096498036496
+Best Dist:  6704.62857678416
+Epoch  589
+Temperature:  18.861790057558856
+Epoch Length:  100
+Current Dist:  6711.782997445413
+Best Dist:  6704.62857678416
+Epoch  590
+Temperature:  18.673172156983266
+Epoch Length:  100
+Current Dist:  6702.495203918888
+Best Dist:  6702.495203918888
+Epoch  591
+Temperature:  18.486440435413435
+Epoch Length:  100
+Current Dist:  6711.782997445413
+Best Dist:  6702.495203918888
+Epoch  592
+Temperature:  18.3015760310593
+Epoch Length:  100
+Current Dist:  6708.346237791246
+Best Dist:  6702.495203918888
+Epoch  593
+Temperature:  18.11856027074871
+Epoch Length:  100
+Current Dist:  6708.346237791246
+Best Dist:  6702.495203918888
+Epoch  594
+Temperature:  17.937374668041222
+Epoch Length:  100
+Current Dist:  6675.361444307043
+Best Dist:  6675.361444307043
+Epoch  595
+Temperature:  17.75800092136081
+Epoch Length:  100
+Current Dist:  6712.475541082665
+Best Dist:  6675.361444307043
+Epoch  596
+Temperature:  17.580420912147204
+Epoch Length:  100
+Current Dist:  6660.427162818192
+Best Dist:  6660.427162818192
+Epoch  597
+Temperature:  17.40461670302573
+Epoch Length:  100
+Current Dist:  6663.213801224222
+Best Dist:  6659.906740386584
+Epoch  598
+Temperature:  17.230570535995472
+Epoch Length:  100
+Current Dist:  6663.213801224222
+Best Dist:  6659.906740386584
+Epoch  599
+Temperature:  17.05826483063552
+Epoch Length:  100
+Current Dist:  6663.213801224222
+Best Dist:  6659.906740386584
+Epoch  600
+Temperature:  16.887682182329165
+Epoch Length:  100
+Current Dist:  6659.906740386584
+Best Dist:  6659.906740386584
+
+Simulated Annealing terminated after 600 epochs.
