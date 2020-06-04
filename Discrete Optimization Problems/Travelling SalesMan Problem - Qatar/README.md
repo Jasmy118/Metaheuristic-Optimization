@@ -12,29 +12,18 @@ https://pypi.org/project/satsp/
 
 
 ## Parameters of the algorithm
-city_list: a N*3 matrix containing three columns representing id, x coordinate and y coordinate of the N cities. Can be None.
 
-dist_matrix: a N*N matrix containing the distances between the N cities. If None is passed and a None city_list is passed, the program will calculate the Eclidean distances between the cities. If both city_list and dist_matrix are None, a test instance with 48 cities will be solved.
+city_list: a N*3 matrix containing three columns representing id, x coordinate and y coordinate of the N cities.
 
-start_temp: initial temperature for SA. If None is passed, the program will estimate the initial temperature using a small sample from the data.
+start_temp: initial temperature for SA is passed as 1000.
 
-stop_temp: stopping temperature for SA. Can be None.
+alpha: cooling rate for SA is set at 0.99.
 
-alpha: cooling rate for SA. If None is passed, the program will calculate alpha if stop_temp and epochs are given. Otherwise alpha is set at 0.99.
+epochs: number of epochs for SA is given as 1000.
 
-epochs: number of epochs for SA. A decisive factor for the running time of the algorithm. The program will terminate after this number of epochs. If None is passed, and stop_temp and alpha are given, the program will calculate number of epochs. Otherwise, the stopping condition will be switched to no improvement after a certain number of epochs, where the number is decided by stopping_count.
-
-epoch_length: number of iterations in each epoch. The default is min(100, N*(N-1) / 2).
-
-epoch_length_factor: the rate at which epoch length increases at each epoch. Should be greater than or equal to 1. Default is 1.00. A small value is recommended for large instances.
-
-stopping_count: the number of epochs after which the program will stop if no improvement is made. This stopping condition is only activated if the number of total epochs is neither specified by the user nor can be calculated by the program. Default is 100. 
-
-screen_output: Parameters of SA, progress of the algorithm and the results will be displayed if set to True. Default is True.
+epoch_length_factor: the rate at which epoch length increases at each epoch. Should be greater than or equal to 1. This value is passed as 1.02.
 
 ## Results
-
-The stopping criterion, number of epochs is set as 1000. Other parameters are : an initial temperature of 1000, cooling rate default value 0.99 and the rate at which epoch length increase is given as 1.02.
 
 The problem converges to an optimum value at epoch 600.
 
