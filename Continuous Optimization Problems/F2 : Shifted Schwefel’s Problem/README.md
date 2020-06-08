@@ -1,4 +1,4 @@
-# F2: Schwefel's Problem
+# F2: Shifted Schwefel's Problem
 
 ![$F_2(X) = \max_{i} \{ |z_i| , 1 \leq i \leq D \} + f\_bias_2 \ , Z = X-O \ , X=\[x_1,x_2,...,x_D\]$](https://render.githubusercontent.com/render/math?math=%24F_2(X)%20%3D%20%5Cmax_%7Bi%7D%20%5C%7B%20%7Cz_i%7C%20%2C%201%20%5Cleq%20i%20%5Cleq%20D%20%5C%7D%20%2B%20f%5C_bias_2%20%5C%20%2C%20Z%20%3D%20X-O%20%5C%20%2C%20X%3D%5Bx_1%2Cx_2%2C...%2Cx_D%5D%24)
 
