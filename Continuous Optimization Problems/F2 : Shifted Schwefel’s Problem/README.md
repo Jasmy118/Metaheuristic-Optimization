@@ -9,7 +9,7 @@
 
 The optimum of the solution is calculated for dimensions 50 and 500 with a boundary limit of ![$X \in \[-100,100\]^D$](https://render.githubusercontent.com/render/math?math=%24X%20%5Cin%20%5B-100%2C100%5D%5ED%24)
 
-Global optimum: ![$X^* = O , F_2(X^*) = f\_bias_2 = - 450$](https://render.githubusercontent.com/render/math?math=%24X%5E*%20%3D%20O%20%2C%20F_1(X%5E*)%20%3D%20f%5C_bias_1%20%3D%20-%20450%24)
+Global optimum: ![$X^* = O , F_2(X^*) = f\_bias_2 = - 450$](https://render.githubusercontent.com/render/math?math=%24X%5E*%20%3D%20O%20%2C%20F_2(X%5E*)%20%3D%20f%5C_bias_2%20%3D%20-%20450%24)
 
 ## Chosen algorithm
 
