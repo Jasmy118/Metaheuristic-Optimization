@@ -10,6 +10,8 @@ The optimum of the solution is calculated for dimensions 50 and 500 with a bound
 
 Global optimum: ![$X^* = O , F_1(X^*) = f\_bias_1 = - 450$](https://render.githubusercontent.com/render/math?math=%24X%5E*%20%3D%20O%20%2C%20F_1(X%5E*)%20%3D%20f%5C_bias_1%20%3D%20-%20450%24)
 
+![image11](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Images/1.png)
+
 ## Chosen algorithm
 
 The optimum was found using CMA-ES (covariance matrix adaptation evolution strategy) algorithm and differential evolution. But more time was required for differential evolution algorithm.
