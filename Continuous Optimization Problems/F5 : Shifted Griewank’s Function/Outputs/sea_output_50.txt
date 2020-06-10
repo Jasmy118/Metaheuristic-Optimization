@@ -1,0 +1,39 @@
+Time taken to compute the optimum (in seconds):  28.22654938697815
+
+Number of iterations done :  500000.0
+
+Optimum value of function :  [-179.94944226]
+
+Optimum values of x :  [ 540.10867986 -322.60481936  128.17038379  -16.79210807  469.41224826
+  314.13876306  -52.26044347 -577.5164371   385.6776022   -66.31719916
+  138.27299379  350.33043274  506.15177879  286.20058522 -388.44145542
+ -113.43287716  522.60670563  500.27397157 -107.65011518  472.8233104
+ -530.44294985 -176.38924208  375.81974113 -588.34866482 -433.42904501
+ -357.12741368 -361.53513358  124.79103754 -273.62360795 -361.41463544
+ -582.28454855  296.09977425  -65.9538395   518.26539725  -40.63803195
+  -97.67420921  415.53659369   30.12124616 -356.75472882  206.54000427
+  406.0265494  -576.36360378  217.62854605 -144.63520168  398.19780993
+    3.40279675  251.3352558   -85.432886   -234.35725832 -372.39533616]
+
+Problem details :  Problem name: Griewank
+	C++ class name: class pybind11::object
+
+	Global dimension:			50
+	Integer dimension:			0
+	Fitness dimension:			1
+	Number of objectives:			1
+	Equality constraints dimension:		0
+	Inequality constraints dimension:	0
+	Lower bounds: [-600, -600, -600, -600, -600, ... ]
+	Upper bounds: [600, 600, 600, 600, 600, ... ]
+	Has batch fitness evaluation: false
+
+	Has gradient: false
+	User implemented gradient sparsity: false
+	Has hessians: false
+	User implemented hessians sparsity: false
+
+	Fitness evaluations: 500001
+
+	Thread safety: none
+
