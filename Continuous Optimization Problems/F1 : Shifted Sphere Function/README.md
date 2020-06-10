@@ -96,7 +96,7 @@ Time taken to compute the optimum CMA-ES 500D :  247.66 seconds (4.13 minutes)
 ### CMA-ES 500D
 ![image1](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F1%20:%20Shifted%20Sphere%20Function/Images/cmaes_500.jpg)
 
-### *Differential Evolution Trial*
+### *Differential Evolution*
 (scipy.optimize.differential_evolution)
 
 Differential Evolution required more time to converge even though number of iterations was less.
