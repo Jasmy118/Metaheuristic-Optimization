@@ -12,6 +12,8 @@ Global optimum: ![$X^* = O , F_6(X^*) = f\_bias_6 = - 140$](https://render.githu
 
 ![image1](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F6%20:%20Shifted%20Ackley%E2%80%99s%20Function/Images/1.png)
 
+*Code Here* : [ShiftedAckley.py](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F6%20:%20Shifted%20Ackley%E2%80%99s%20Function/ShiftedAckley.py)
+
 ## Chosen algorithm
 
 The optimum was found using **(N+1)-EA Evol. Algorithm (SEA)** - simple evolutionary algorithm and **Particle Swarm Optimization** (pso).
