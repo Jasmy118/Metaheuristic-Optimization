@@ -22,14 +22,14 @@ https://esa.github.io/pagmo2/docs/cpp/algorithms/sea.html
 ![image1](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F4%20:%20Shifted%20Rastrigin%E2%80%99s%20Function/Images/choosealgoplot.png)
 
 ## Parameters of the algorithm
-Gen - Number of generations to consider. Each generation will compute the objective function once
+Gen - Number of generations to consider. Each generation will compute the objective function once.
 
 For dimension 50, gen is set as 5e5.
 
 For 500 dimensions, gen is set as 7e6.
 
 ## Results
-The outputs and epochs using CMA-ES algorithm in 50 and 500 dimension can be found in below link:
+The outputs and epochs using SEA algorithm in 50 and 500 dimension can be found in below link:
 
 [SEA_Output_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F4%20:%20Shifted%20Rastrigin%E2%80%99s%20Function/Outputs/sea_output_50a.txt)  ||  [SEA_Epochs_50](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F4%20:%20Shifted%20Rastrigin%E2%80%99s%20Function/Outputs/sea_epochs_50a.txt)
 
