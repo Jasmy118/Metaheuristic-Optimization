@@ -5,9 +5,11 @@ http://www.math.uwaterloo.ca/tsp/world/countries.html
 or 
 [dj38tsp.txt](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Discrete%20Optimization%20Problems/Travelling%20SalesMan%20Problem%20-%20Djibouti/dj38tsp.txt)
 
+*Code Here* : [dj38TSP.py](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Discrete%20Optimization%20Problems/Travelling%20SalesMan%20Problem%20-%20Djibouti/dj38TSP.py)
+
 ## Chosen algorithm
 
-I solved this problem with satsp package which uses Simulated Annealing algorithm.
+This problem is solved with satsp package which uses Simulated Annealing algorithm.
 https://pypi.org/project/satsp/
 
 
