@@ -1,0 +1,39 @@
+Time taken to compute the optimum (in seconds):  26.223533391952515
+
+Number of iterations done :  4000
+
+Optimum value of function :  [-139.9999999]
+
+Optimum values of x :  [ 27.0077571  -16.1316892    6.41055503  -0.84105191  23.477938
+  15.72580998  -2.61194015 -28.88978143  19.28442986  -3.31779813
+   6.92594088  17.51622224  25.30877827  14.29243475 -19.42403133
+  -5.6576272   26.12818196  25.01426641  -5.3837876   23.61897188
+ -26.52652171  -8.82791207  18.78998985 -29.40832196 -21.66654712
+ -17.83408691 -18.07669547   6.22754878 -13.66872449 -18.0711439
+ -29.08356438  14.8071406   -3.29421408  25.90887473  -2.04033946
+  -4.88103194  20.77328508   1.50914976 -17.84115855  10.32824812
+  20.28710668 -28.82162915  10.87662967  -7.2311389   19.90776107
+   0.16877304  12.56828358  -4.26645805 -11.72295797 -18.62077506]
+
+Problem details :  Problem name: Ackley
+	C++ class name: class pybind11::object
+
+	Global dimension:			50
+	Integer dimension:			0
+	Fitness dimension:			1
+	Number of objectives:			1
+	Equality constraints dimension:		0
+	Inequality constraints dimension:	0
+	Lower bounds: [-32, -32, -32, -32, -32, ... ]
+	Upper bounds: [32, 32, 32, 32, 32, ... ]
+	Has batch fitness evaluation: false
+
+	Has gradient: false
+	User implemented gradient sparsity: false
+	Has hessians: false
+	User implemented hessians sparsity: false
+
+	Fitness evaluations: 120030
+
+	Thread safety: none
+
