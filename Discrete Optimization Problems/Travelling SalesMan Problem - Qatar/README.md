@@ -5,6 +5,8 @@ http://www.math.uwaterloo.ca/tsp/world/countries.html
 or
 [qa194tsp.txt](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Discrete%20Optimization%20Problems/Travelling%20SalesMan%20Problem%20-%20Qatar/qa194tsp.txt)
 
+*Code Here* : [qa194TSP.py](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Discrete%20Optimization%20Problems/Travelling%20SalesMan%20Problem%20-%20Qatar/qa194TSP.py)
+
 ## Chosen algorithm
 
 I solved this problem with satsp package which uses Simulated Annealing algorithm. Simulated Annealing is a conventional method to obtain the global optimum by adjusting parameters temperature.
