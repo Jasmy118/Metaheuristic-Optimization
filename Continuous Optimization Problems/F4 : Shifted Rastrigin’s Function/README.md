@@ -193,8 +193,7 @@ Problem details :  Problem name: Shifted Rastrigin
 	Thread safety: none
 
 ## Number of function evaluations
-The function evaluations (Fevals) in 50D is 483580 and in 500D is 6991608. The maximum number of function evaluations (maxfevals) is left as the default value (inf).
-
+The function evaluations (Fevals) in 50D is 483580 and in 500D is 6991608.
 
 ## Computational time
 Time taken to compute the optimum in 50 dimension :  17.94 seconds
