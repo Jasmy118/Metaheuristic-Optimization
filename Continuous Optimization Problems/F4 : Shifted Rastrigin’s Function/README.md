@@ -12,6 +12,7 @@ Global optimum: ![$X^* = O , F_4(X^*) = f\_bias_4 = - 330$](https://render.githu
 
 ![image4](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F4%20:%20Shifted%20Rastrigin%E2%80%99s%20Function/Images/1.png)
 
+*Code Here* : [ShiftedRastrigin.py](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F4%20:%20Shifted%20Rastrigin%E2%80%99s%20Function/ShiftedRastrigin.py)
 ## Chosen algorithm
 
 The optimum was found using **(N+1)-EA Evol. Algorithm (SEA)** - simple evolutionary algorithm.
