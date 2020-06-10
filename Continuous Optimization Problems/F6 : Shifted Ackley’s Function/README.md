@@ -240,8 +240,9 @@ For dimension 50,
 
 For 500 dimensions,
 - Gen: Number of generations to consider = 60000
-- neighb_type: swarm topology (defining each particle's neighbours) = 4
-- neighb_param: topology parameter (defines how many neighbours to consider) = 15
+- eta1: Cognitive component in [0,4] = 2.05
+- eta2: Social component in [0,4] = 2.05
+- max-vel: Maximum velocity coefficient = 0.5
 
 ## Results
 The details of the results are as below:
