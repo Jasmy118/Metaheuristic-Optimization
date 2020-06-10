@@ -223,7 +223,6 @@ Time taken to compute the optimum in 500 dimension :  590.98 seconds (9.8 minute
 ## Convergence curve
 
 ### SEA 50D
-<img align='left' src="./Images/plot50sea.png">
 ![image3](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F6%20:%20Shifted%20Ackley%E2%80%99s%20Function/Images/plot50sea.png)
 
 ### SEA 500D
