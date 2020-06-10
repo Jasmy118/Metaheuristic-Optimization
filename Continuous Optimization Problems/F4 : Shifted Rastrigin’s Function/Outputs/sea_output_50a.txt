@@ -1,0 +1,38 @@
+Time taken to compute the optimum (in seconds):  17.943995475769043
+
+Number of iterations done :  500000.0
+
+Optimum value of function :  [-329.98185594]
+
+Optimum values of x :  [ 3.84783108  4.32475466 -2.82157658  0.64635972  4.33886629  2.4410169
+ -3.45901408  2.33900885  3.97996649  4.29004011  2.37508378  3.22494986
+ -0.02357601  4.63026955  4.61302147  0.9952457   1.6086428  -4.72440273
+ -2.69745369  1.03461641 -3.20461218  3.80748975 -2.67773709 -3.22326937
+  4.41170574  0.7151969  -4.42144655  1.49433114  0.73819104  2.17905544
+ -3.27912433  2.78347494  3.59667053 -4.71842092  0.51618944 -3.60395046
+ -3.20370318  0.4693032  -2.02934222 -0.39951416 -3.77010952  4.96908664
+  4.32157761  3.35331837 -4.86553533  4.83515196  0.21209106 -4.27582179
+  3.68492386  4.78891285]
+
+Problem details :  Problem name: Shifted Rastrigin
+	C++ class name: class pybind11::object
+
+	Global dimension:			50
+	Integer dimension:			0
+	Fitness dimension:			1
+	Number of objectives:			1
+	Equality constraints dimension:		0
+	Inequality constraints dimension:	0
+	Lower bounds: [-5, -5, -5, -5, -5, ... ]
+	Upper bounds: [5, 5, 5, 5, 5, ... ]
+	Has batch fitness evaluation: false
+
+	Has gradient: false
+	User implemented gradient sparsity: false
+	Has hessians: false
+	User implemented hessians sparsity: false
+
+	Fitness evaluations: 500001
+
+	Thread safety: none
+
