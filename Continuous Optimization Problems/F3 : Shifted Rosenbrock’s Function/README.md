@@ -14,7 +14,7 @@ Global optimum: ![$X^* = O , F_3(X^*) = f\_bias_3 = 390$](https://render.githubu
 
 ## Chosen algorithm
 
-The optimum was found using **Simulated Anealing**
+The optimum was found using **Simulated Anealing**.
 
 *Code Here* : [ShiftedRosenbrock.py](https://github.com/Jasmy118/Metaheuristic-Optimization/tree/master/Continuous%20Optimization%20Problems/F3%20:%20Shifted%20Rosenbrock%E2%80%99s%20Function/ShiftedRosenbrock.py)
 
