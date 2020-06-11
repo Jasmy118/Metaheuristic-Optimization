@@ -231,5 +231,4 @@ Time taken to compute the optimum in 500 dimension :  24144.07 seconds (6.7 hour
 ![image3](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F3%20:%20Shifted%20Rosenbrock%E2%80%99s%20Function/Images/plot50sa.png)
 
 ### Simulated Annealing 500D
-<img align='left' src="./Images/plot500sa.png">
 ![image4](https://github.com/Jasmy118/Metaheuristic-Optimization/blob/master/Continuous%20Optimization%20Problems/F3%20:%20Shifted%20Rosenbrock%E2%80%99s%20Function/Images/plot500sa.png)
