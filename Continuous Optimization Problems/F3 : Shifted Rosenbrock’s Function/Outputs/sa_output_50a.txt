@@ -1,0 +1,37 @@
+Time taken to compute the optimum (in seconds):  81.72003817558289
+
+Optimum value of function :  [390.02198492]
+
+Optimum values of x :  [-75.42790926 -35.73182377 -57.59405554  38.91065678  52.24774576
+ -30.36013563  50.68988816  49.79837063 -71.1566303  -30.78469228
+ -43.00316824 -20.08927739  71.52786727  48.02111707 -46.02690074
+  -8.16198927 -40.9754565  -13.82738386  35.81733882  57.13766226
+  58.58502002 -17.41084431  27.28886252 -62.56185863 -28.81562275
+ -86.52951778  48.29080879  -7.58302042 -82.16057668 -72.0786424
+  82.24547444  19.5852986  -45.58750123  77.31216372 -12.61474795
+ -81.18361479  72.87783914  86.08196757  28.40088138  40.85332065
+  -2.04468419  33.44173801 -24.67062804 -17.82227952   2.57893471
+ -81.81750649  88.42880812 -34.30101687 -43.89633681  19.69992482]
+
+Problem details :  Problem name: RosenBrock
+	C++ class name: class pybind11::object
+
+	Global dimension:			50
+	Integer dimension:			0
+	Fitness dimension:			1
+	Number of objectives:			1
+	Equality constraints dimension:		0
+	Inequality constraints dimension:	0
+	Lower bounds: [-100, -100, -100, -100, -100, ... ]
+	Upper bounds: [100, 100, 100, 100, 100, ... ]
+	Has batch fitness evaluation: false
+
+	Has gradient: false
+	User implemented gradient sparsity: false
+	Has hessians: false
+	User implemented hessians sparsity: false
+
+	Fitness evaluations: 781750
+
+	Thread safety: none
+
